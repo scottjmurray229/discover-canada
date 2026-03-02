@@ -1,0 +1,269 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const pageTitle = "Winter Travel in Canada — Skiing, Northern Lights & Ice Hotels";
+const pageDescription = "Canada in winter is extraordinary — world-class skiing at Whistler and Banff, Northern Lights in Jasper and the Yukon, Quebec's Ice Hotel, and Winterlude in Ottawa.";
+
+const skiResorts = [
+  {
+    name: "Whistler Blackcomb",
+    location: "British Columbia",
+    slug: "whistler",
+    vertical: "1,609m",
+    terrain: "8,171 acres, 200+ runs",
+    season: "Nov – Apr",
+    liftTicket: "$175-220 CAD/day",
+    highlights: "North America's largest ski resort. Two mountains connected by Peak 2 Peak Gondola.",
+    bestFor: "Serious skiers and snowboarders of all levels"
+  },
+  {
+    name: "Lake Louise Ski Resort",
+    location: "Alberta (Banff)",
+    slug: "banff",
+    vertical: "1,000m",
+    terrain: "4,200 acres, 145 runs",
+    season: "Nov – May",
+    liftTicket: "$130-175 CAD/day",
+    highlights: "Longest ski season in Canada. Views of Lake Louise from the runs. World-class powder.",
+    bestFor: "Families and intermediate skiers wanting scenery"
+  },
+  {
+    name: "Mont Tremblant",
+    location: "Quebec",
+    slug: "montreal",
+    vertical: "645m",
+    terrain: "102 runs, 4 sides of the mountain",
+    season: "Dec – Apr",
+    liftTicket: "$100-155 CAD/day",
+    highlights: "The East's premier ski resort. Pedestrian village at the base. 2 hours from Montreal.",
+    bestFor: "Weekend skiers from Montreal and Toronto"
+  },
+  {
+    name: "Banff Sunshine Village",
+    location: "Alberta (Banff)",
+    slug: "banff",
+    vertical: "1,070m",
+    terrain: "3,358 acres, 137 runs",
+    season: "Nov – May",
+    liftTicket: "$130-175 CAD/day",
+    highlights: "Ski-in/ski-out village at 2,160m. Natural snowfall (9m average). Tree skiing.",
+    bestFor: "Powder hounds and those wanting high-altitude skiing"
+  },
+];
+
+const winterExperiences = [
+  {
+    title: "Northern Lights",
+    icon: "🌌",
+    best: "October – March",
+    where: "Jasper, Yukon, Northwest Territories",
+    description: "Canada's dark skies offer extraordinary aurora viewing. Jasper National Park (world's largest dark sky preserve) sees aurora on 60% of clear nights Oct-March. The Yukon is North America's premier Northern Lights destination.",
+    tips: "Book accommodation with aurora wake-up alerts. Best viewing midnight to 2am on moonless nights."
+  },
+  {
+    title: "Quebec Winter Carnival",
+    icon: "🎭",
+    best: "Late January – Early February",
+    where: "Quebec City",
+    description: "The world's largest winter carnival: ice sculptures on the Plains of Abraham, the Bonhomme mascot, night parades through Old Quebec, the ice canoe race on the St. Lawrence River. 300,000 visitors over 10 days.",
+    tips: "Book accommodation 6-12 months ahead. Temperatures range -15 to -25°C — dress accordingly."
+  },
+  {
+    title: "Ice Hotel — Valcartier",
+    icon: "🏰",
+    best: "January – March",
+    where: "Valcartier, Quebec (30 min from Quebec City)",
+    description: "The Hotel de Glace at Valcartier Vacation Village is entirely rebuilt from ice each January. Rooms with ice beds (fur sleeping bags provided), ice bar, ice chapel. Novelty stay at $400-600 CAD/night — or visit for a day tour.",
+    tips: "Day visits $25 CAD. Night stays sell out early — book in November."
+  },
+  {
+    title: "Rideau Canal Skating",
+    icon: "⛸️",
+    best: "Late January – Mid-March",
+    where: "Ottawa",
+    description: "The 7.8km Rideau Canal freezes to become the world's longest skating rink (UNESCO Heritage site). NCC monitors ice daily; conditions posted online. BeaverTail pastry kiosks on the ice. Winterlude festival in February adds ice sculptures.",
+    tips: "Skate rentals $12 CAD at multiple canal locations. Lockers available. Check NCC website for opening."
+  },
+  {
+    title: "Polar Bear Viewing",
+    icon: "🐻‍❄️",
+    best: "October – November",
+    where: "Churchill, Manitoba",
+    description: "Churchill is the polar bear capital of the world. Each October and November, polar bears gather on the shore of Hudson Bay waiting for the ice to form. Tundra buggy tours operate from town for close-range viewing.",
+    tips: "Fly into Churchill from Winnipeg. Tundra buggy tours $400-600 CAD/day. Book months ahead."
+  },
+  {
+    title: "Banff Ice Walk",
+    icon: "🧊",
+    best: "January – March",
+    where: "Banff (Johnston Canyon)",
+    description: "Johnston Canyon trail becomes a winter ice walk when the waterfalls freeze solid. Guided crampons-on-boots tours lead groups through the frozen canyon to the Lower and Upper Falls, which transform into enormous ice sculptures.",
+    tips: "Rent crampons ($10 CAD) at Banff outdoor stores. Guided tours $55-75 CAD. Dress warmly."
+  },
+];
+
+const packingGuide = [
+  { item: "Merino wool base layers (top and bottom)", essential: true },
+  { item: "Insulated mid-layer (down or synthetic)", essential: true },
+  { item: "Waterproof, windproof outer shell jacket", essential: true },
+  { item: "Waterproof ski pants or snow pants", essential: true },
+  { item: "Insulated waterproof boots (-30°C rated)", essential: true },
+  { item: "Wool or synthetic hat covering ears", essential: true },
+  { item: "Warm gloves or ski mitts", essential: true },
+  { item: "Buff or neck warmer/balaclava", essential: true },
+  { item: "Wool socks (multiple pairs)", essential: true },
+  { item: "Hand warmers (chemical, single-use)", essential: false },
+  { item: "Sunglasses/ski goggles", essential: false },
+  { item: "Sunscreen (UV reflects off snow)", essential: false },
+  { item: "Microspike crampons for icy sidewalks", essential: false },
+];
+
+const faqs = [
+  {
+    question: "How cold does Canada get in winter?",
+    answer: "It depends heavily on location. Vancouver winters are mild (2-8°C, rarely snowing). Toronto averages -5 to -8°C in January with windchill making it feel -15 to -20°C. The prairies (Calgary, Winnipeg) regularly hit -20 to -30°C. Quebec City hits -15 to -20°C in January. The Yukon and Northwest Territories can reach -40°C. Dress in layers and the cold becomes manageable."
+  },
+  {
+    question: "What should I wear in a Canadian winter?",
+    answer: "Layering is essential. Base layer (merino wool), mid-layer (down jacket), and outer waterproof shell. Critically: insulated waterproof boots rated to at least -20°C if you're in the mountains or prairies. Your feet will suffer most. Hat, gloves, and neck warmer are not optional in most Canadian cities in January."
+  },
+  {
+    question: "Are the Northern Lights visible from cities?",
+    answer: "Rarely. Light pollution from cities makes aurora viewing difficult. Drive 30-60 minutes from any major city and reduce interference significantly. Jasper National Park has the world's largest accessible dark sky preserve and aurora is frequently visible. The Yukon (Whitehorse) offers the best Canadian Northern Lights viewing."
+  },
+  {
+    question: "Is Canada worth visiting in winter?",
+    answer: "Absolutely yes — winter shows a completely different side of Canada. Quebec's Winter Carnival is unique in the world. The Rockies covered in snow are magnificently beautiful. Skiing Whistler or Banff is world-class. The Rideau Canal skating rink is a unique Canadian experience. If you embrace the cold rather than fighting it, winter in Canada is extraordinary."
+  },
+];
+---
+
+<BaseLayout title={pageTitle} description={pageDescription}>
+  <main>
+    <!-- Hero -->
+    <section style="background: linear-gradient(135deg, #0c1a3e 0%, #1e3a5f 40%, #0D7377 100%); color: white; padding: 4rem 1.5rem; text-align: center;">
+      <div style="max-width: 800px; margin: 0 auto;">
+        <div style="font-size: 3rem; margin-bottom: 1rem;">❄️</div>
+        <h1 style="font-size: 2.5rem; font-weight: 700; margin-bottom: 1rem; font-family: 'DM Serif Display', serif;">
+          Winter Travel in Canada
+        </h1>
+        <p style="font-size: 1.2rem; opacity: 0.9; max-width: 640px; margin: 0 auto 1.5rem;">
+          World-class skiing, Northern Lights, Quebec's Winter Carnival, and skating the world's longest rink. Canada in winter is extraordinary if you dress for it.
+        </p>
+        <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+          <span style="background: rgba(255,255,255,0.2); padding: 0.5rem 1rem; border-radius: 9999px; font-size: 0.9rem;">Nov – Mar Prime Season</span>
+          <span style="background: rgba(255,255,255,0.2); padding: 0.5rem 1rem; border-radius: 9999px; font-size: 0.9rem;">Skiing</span>
+          <span style="background: rgba(255,255,255,0.2); padding: 0.5rem 1rem; border-radius: 9999px; font-size: 0.9rem;">Aurora Viewing</span>
+          <span style="background: rgba(255,255,255,0.2); padding: 0.5rem 1rem; border-radius: 9999px; font-size: 0.9rem;">Festivals</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Ski Resorts -->
+    <section style="max-width: 1120px; margin: 3rem auto; padding: 0 1.5rem;">
+      <h2 style="font-size: 1.8rem; font-weight: 700; margin-bottom: 0.5rem; font-family: 'DM Serif Display', serif;">
+        Canada's Best Ski Resorts
+      </h2>
+      <p style="color: #666; margin-bottom: 2rem;">Four-world class resorts that draw skiers from across North America and Europe.</p>
+      <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem;">
+        {skiResorts.map((resort) => (
+          <article style="background: white; border-radius: 16px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border: 1px solid #EBE4D8;">
+            <h3 style="font-size: 1.15rem; font-weight: 700; margin-bottom: 0.25rem;">{resort.name}</h3>
+            <p style="font-size: 0.85rem; color: #0D7377; font-weight: 600; margin-bottom: 0.75rem;">
+              <a href={`/destinations/${resort.slug}/`} style="color: #0D7377; text-decoration: none;">📍 {resort.location}</a>
+            </p>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem; margin-bottom: 0.75rem; font-size: 0.8rem; color: #666;">
+              <span>⬆️ {resort.vertical}</span>
+              <span>📅 {resort.season}</span>
+              <span style="grid-column: 1/-1;">🎿 {resort.terrain}</span>
+            </div>
+            <p style="font-size: 0.85rem; color: #4A5568; line-height: 1.55; margin-bottom: 0.75rem;">{resort.highlights}</p>
+            <div style="display: flex; justify-content: space-between; align-items: center; padding-top: 0.75rem; border-top: 1px solid #EBE4D8;">
+              <span style="font-size: 0.8rem; color: #666;">Best for: {resort.bestFor}</span>
+              <span style="font-size: 0.85rem; font-weight: 700; color: #0D7377;">{resort.liftTicket}</span>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <!-- Winter Experiences -->
+    <section style="background: #F5F0E8; padding: 3rem 1.5rem;">
+      <div style="max-width: 1120px; margin: 0 auto;">
+        <h2 style="font-size: 1.8rem; font-weight: 700; margin-bottom: 2rem; font-family: 'DM Serif Display', serif; text-align: center;">
+          Unmissable Winter Experiences
+        </h2>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 1.5rem;">
+          {winterExperiences.map((exp) => (
+            <article style="background: white; border-radius: 16px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
+              <div style="font-size: 2rem; margin-bottom: 0.75rem;">{exp.icon}</div>
+              <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 0.25rem;">{exp.title}</h3>
+              <div style="display: flex; gap: 1rem; font-size: 0.8rem; color: #666; margin-bottom: 0.75rem;">
+                <span>📅 {exp.best}</span>
+                <span>📍 {exp.where}</span>
+              </div>
+              <p style="font-size: 0.85rem; color: #4A5568; line-height: 1.6; margin-bottom: 0.75rem;">{exp.description}</p>
+              <p style="font-size: 0.8rem; color: #0D7377; font-style: italic; border-top: 1px solid #EBE4D8; padding-top: 0.5rem;">
+                💡 {exp.tips}
+              </p>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- Packing Guide -->
+    <section style="max-width: 800px; margin: 3rem auto; padding: 0 1.5rem;">
+      <h2 style="font-size: 1.8rem; font-weight: 700; margin-bottom: 1rem; font-family: 'DM Serif Display', serif;">
+        What to Pack for Canadian Winter
+      </h2>
+      <p style="color: #666; margin-bottom: 1.5rem;">The number one mistake travellers make is underpacking for warmth. Canada's winters are not symbolic — they are serious. This is what you need:</p>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem;">
+        {packingGuide.map((item) => (
+          <div style={`display: flex; align-items: flex-start; gap: 0.5rem; padding: 0.75rem; background: ${item.essential ? '#E8F4F5' : 'white'}; border-radius: 8px; border: 1px solid #EBE4D8;`}>
+            <span style="color: #0D7377; font-weight: 700; flex-shrink: 0;">{item.essential ? '★' : '○'}</span>
+            <span style="font-size: 0.85rem; color: #4A5568;">{item.item}</span>
+          </div>
+        ))}
+      </div>
+      <p style="font-size: 0.85rem; color: #888; margin-top: 1rem;">★ Essential &nbsp; ○ Recommended</p>
+    </section>
+
+    <!-- FAQ -->
+    <section style="background: #F5F0E8; padding: 3rem 1.5rem;">
+      <div style="max-width: 800px; margin: 0 auto;">
+        <h2 style="font-size: 1.8rem; font-weight: 700; margin-bottom: 1.5rem; font-family: 'DM Serif Display', serif;">
+          Winter Canada FAQs
+        </h2>
+        <div style="display: flex; flex-direction: column; gap: 1rem;">
+          {faqs.map((faq) => (
+            <details style="background: white; border: 1px solid #EBE4D8; border-radius: 12px; padding: 1.25rem;">
+              <summary style="font-weight: 600; cursor: pointer; list-style: none;">{faq.question}</summary>
+              <p style="color: #4A5568; margin-top: 0.75rem; line-height: 1.65;">{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section style="background: #0c1a3e; color: white; padding: 3rem 1.5rem; text-align: center;">
+      <div style="max-width: 600px; margin: 0 auto;">
+        <h2 style="font-size: 1.8rem; font-weight: 700; margin-bottom: 1rem; font-family: 'DM Serif Display', serif;">
+          Plan Your Canadian Winter Trip
+        </h2>
+        <p style="opacity: 0.9; margin-bottom: 1.5rem;">
+          Tell our AI trip planner your winter interests and get a custom Canada itinerary with accommodation recommendations.
+        </p>
+        <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+          <a href="/plan/" style="background: #0D7377; color: white; padding: 0.875rem 2rem; border-radius: 9999px; font-weight: 700; text-decoration: none;">
+            Plan Winter Trip
+          </a>
+          <a href="/destinations/whistler/" style="border: 2px solid white; color: white; padding: 0.875rem 2rem; border-radius: 9999px; font-weight: 700; text-decoration: none;">
+            Whistler Guide →
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+</BaseLayout>

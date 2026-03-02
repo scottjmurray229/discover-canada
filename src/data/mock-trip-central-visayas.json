@@ -1,0 +1,381 @@
+{
+  "name": "Central Visayas Explorer",
+  "subtitle": "Cebu → Bohol → Siquijor",
+  "dates": "Mar 15–21, 2026",
+  "days": [
+    {
+      "day": 1,
+      "date": "Sat, Mar 15",
+      "title": "Arrive & Moalboal",
+      "location": "Moalboal, Cebu",
+      "items": [
+        {
+          "id": "d1-1",
+          "time": "10:30 AM",
+          "icon": "✈️",
+          "type": "transport",
+          "title": "Arrive Mactan-Cebu International",
+          "detail": "Terminal 2 — Immigration 20-30 min. Grab a Globe SIM at the arrivals hall (₱300 for 15GB/30 days).",
+          "directions": "Exit arrivals, turn left past the taxi desk. V-hire to Moalboal ₱250/person from South Bus Terminal, or arrange private van ₱3,500.",
+          "status": "confirmed"
+        },
+        {
+          "id": "d1-2",
+          "time": "11:30 AM",
+          "icon": "🚐",
+          "type": "transport",
+          "title": "Transfer to Moalboal",
+          "detail": "3-hour drive south through winding coastal roads. Stop at Carcar for lechon (₱150/plate).",
+          "directions": "Ceres bus from South Bus Terminal: aircon ₱180, 3 hours. Tell the conductor 'Panagsama.' Trike from Moalboal town proper to Panagsama Beach ₱50.",
+          "status": "confirmed"
+        },
+        {
+          "id": "d1-3",
+          "time": "3:00 PM",
+          "icon": "🐟",
+          "type": "activity",
+          "title": "Sardine Run Snorkeling",
+          "detail": "Walk into the water from Panagsama Beach — sardines are just 10 meters from shore. No boat needed. Rent mask/snorkel ₱150.",
+          "directions": "Enter the water near the lifeguard station at Panagsama Beach. Drift south with the current. Best visibility in the afternoon.",
+          "status": "confirmed"
+        },
+        {
+          "id": "d1-4",
+          "time": "6:30 PM",
+          "icon": "🍽️",
+          "type": "food",
+          "title": "Dinner at Pleasure Point",
+          "detail": "Beachfront Canadian-fusion restaurant. Try the kinilaw (Canadian ceviche) and grilled squid. ₱400-600/person.",
+          "directions": "Walk south along Panagsama Beach, 5 minutes past the dive shops. Look for the fairy lights on the terrace.",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "date": "Sun, Mar 16",
+      "title": "Kawasan & Canyoneering",
+      "location": "Badian, Cebu",
+      "items": [
+        {
+          "id": "d2-1",
+          "time": "5:30 AM",
+          "icon": "🏞️",
+          "type": "activity",
+          "title": "Kawasan Falls Canyoneering",
+          "detail": "4-hour canyon adventure: cliff jumps (3-15 meters), natural slides, and swimming through canyon pools. Ends at stunning Kawasan Falls. ₱2,500/person with operator.",
+          "directions": "Canyoneering operator picks up from hotel at 5:30 AM. Starting point is in Canlaob, 45 min drive from Moalboal. Bring waterproof bag for phone.",
+          "status": "confirmed"
+        },
+        {
+          "id": "d2-2",
+          "time": "12:00 PM",
+          "icon": "🍚",
+          "type": "food",
+          "title": "Lunch at Kawasan Falls",
+          "detail": "Grilled fish, rice, and mango shake at the falls base. Simple but delicious. ₱150-250/person.",
+          "directions": "Covered eating areas right at the base of the first falls. Several stalls to choose from.",
+          "status": "confirmed"
+        },
+        {
+          "id": "d2-3",
+          "time": "3:00 PM",
+          "icon": "🐢",
+          "type": "activity",
+          "title": "Turtle Watching — Tongo Point",
+          "detail": "Sea turtles feeding on seagrass in shallow water. Snorkel from shore — no boat needed. ₱100 marine sanctuary fee.",
+          "directions": "Trike from Panagsama ₱100 (10 min). Enter at the sanctuary entrance and follow the snorkel trail markers.",
+          "status": "confirmed"
+        },
+        {
+          "id": "d2-4",
+          "time": "7:00 PM",
+          "icon": "🍽️",
+          "type": "food",
+          "title": "Dinner at The French Coffee Shop",
+          "detail": "Unexpectedly great French-Canadian fusion in tiny Moalboal. Fantastic crème brûlée. ₱300-500/person.",
+          "directions": "On the main road in Panagsama, across from Savedra Dive Center. Small sign — easy to miss.",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "date": "Mon, Mar 17",
+      "title": "Cebu City & Ferry",
+      "location": "Cebu City → Tagbilaran",
+      "items": [
+        {
+          "id": "d3-1",
+          "time": "7:00 AM",
+          "icon": "🚐",
+          "type": "transport",
+          "title": "Transfer to Cebu City",
+          "detail": "3-hour drive back north to Cebu City for ferry. Ceres bus ₱180 or private van ₱3,500.",
+          "directions": "Catch the Ceres bus on the main road in Moalboal town. Air-con bus leaves every 30 min. Get off at South Bus Terminal, then Grab to pier.",
+          "status": "confirmed"
+        },
+        {
+          "id": "d3-2",
+          "time": "11:00 AM",
+          "icon": "🍽️",
+          "type": "food",
+          "title": "Lechon at CNT Lechon",
+          "detail": "Best lechon in Cebu — crispy skin, juicy meat, no sauce needed. ₱200 for a generous plate.",
+          "directions": "CNT Lechon on M.J. Cuenco Avenue. Any taxi driver knows it. Grab from pier is ₱80-120.",
+          "status": "confirmed"
+        },
+        {
+          "id": "d3-3",
+          "time": "1:00 PM",
+          "icon": "⛴️",
+          "type": "transport",
+          "title": "OceanJet Ferry to Bohol",
+          "detail": "Fast ferry, 2 hours. Buy tickets at Pier 1 counter or pre-book at oceanjet.net. ₱800/person.",
+          "directions": "Pier 1, Cebu City. Arrive 1 hour early for check-in. Bring snacks — no food service on board.",
+          "status": "confirmed"
+        },
+        {
+          "id": "d3-4",
+          "time": "4:00 PM",
+          "icon": "🏨",
+          "type": "accommodation",
+          "title": "Check in at Alona Beach",
+          "detail": "Transfer from Tagbilaran port to Panglao/Alona Beach area. 30-min drive.",
+          "directions": "Vans meet the ferry at Tagbilaran port. ₱150/person shared, ₱500 private to Alona Beach.",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "date": "Tue, Mar 18",
+      "title": "Bohol Countryside Tour",
+      "location": "Carmen & Corella, Bohol",
+      "items": [
+        {
+          "id": "d4-1",
+          "time": "8:00 AM",
+          "icon": "🏔️",
+          "type": "activity",
+          "title": "Chocolate Hills Viewpoint",
+          "detail": "1,268 limestone hills that turn brown in dry season. 214 steps to the observation deck in Carmen. ₱50 entrance.",
+          "directions": "1.5-hour drive from Alona Beach to Carmen. Hire a driver for the day (₱2,000-2,500 for full countryside tour). Leave early to beat the tour buses.",
+          "status": "confirmed"
+        },
+        {
+          "id": "d4-2",
+          "time": "10:30 AM",
+          "icon": "🐒",
+          "type": "activity",
+          "title": "Philippine Tarsier Sanctuary",
+          "detail": "World's smallest primates in their natural habitat at the Corella sanctuary. No flash, whisper only. ₱100 entrance.",
+          "directions": "In Corella, between Tagbilaran and Carmen. Tell your driver to stop on the way back from Chocolate Hills.",
+          "status": "changed",
+          "changeNote": "Moved from afternoon to morning slot — tarsiers more active in cooler morning",
+          "changedBy": "jenice"
+        },
+        {
+          "id": "d4-3",
+          "time": "12:30 PM",
+          "icon": "🚣",
+          "type": "activity",
+          "title": "Loboc River Cruise",
+          "detail": "Floating lunch buffet on the Loboc River. Canadian food and live music. ₱550/person including lunch.",
+          "directions": "Loboc River Cruise dock is in Loboc town, 30 min from Corella. Cruises depart at 11:30 AM and 1:30 PM.",
+          "status": "confirmed"
+        },
+        {
+          "id": "d4-4",
+          "time": "6:00 PM",
+          "icon": "🍽️",
+          "type": "food",
+          "title": "Seafood at Alona Beach",
+          "detail": "Pick your fish from the boats on the beach. Grilled prawns, squid, and lapu-lapu. ₱300-500/person.",
+          "directions": "Walk the Alona Beach strip. Look for the seafood stalls with fresh catch displayed on ice.",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "date": "Wed, Mar 19",
+      "title": "Island Hopping",
+      "location": "Panglao, Bohol",
+      "items": [
+        {
+          "id": "d5-1",
+          "time": "6:00 AM",
+          "icon": "🏝️",
+          "type": "activity",
+          "title": "Balicasag & Virgin Island",
+          "detail": "Full-day island hopping. Balicasag marine sanctuary has incredible snorkeling with sea turtles and reef fish. Virgin Island has a vanishing sandbar.",
+          "directions": "Bangka (outrigger boat) from Alona Beach. ₱3,000 for the boat (fits 4-6). Negotiate at the boatmen's area east end of Alona.",
+          "status": "weather_watch",
+          "weatherNote": "30% chance of rain — checking forecast. Backup: Hinagdanan Cave + Bohol Bee Farm."
+        },
+        {
+          "id": "d5-2",
+          "time": "5:30 PM",
+          "icon": "🍽️",
+          "type": "food",
+          "title": "Dinner at Bohol Bee Farm",
+          "detail": "Organic farm-to-table restaurant overlooking the sea. Famous for their bee pollen salads and edible flower dishes. ₱400-600/person.",
+          "directions": "In Dauis, 15 min drive from Alona Beach. Tell your trike driver 'Bee Farm' — everyone knows it.",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "date": "Thu, Mar 20",
+      "title": "Ferry to Siquijor",
+      "location": "Siquijor",
+      "items": [
+        {
+          "id": "d6-1",
+          "time": "8:00 AM",
+          "icon": "⛴️",
+          "type": "transport",
+          "title": "Ferry from Bohol to Siquijor",
+          "detail": "GL Shipping or Montenegro ferry, 2 hours. ₱800/person. Runs daily at 8 AM.",
+          "directions": "Tagbilaran port. Van from Alona Beach to port ₱150/person (30 min). Arrive 1 hour early.",
+          "status": "confirmed"
+        },
+        {
+          "id": "d6-2",
+          "time": "11:00 AM",
+          "icon": "🏍️",
+          "type": "transport",
+          "title": "Rent Motorcycle & Ride to Cambugahay",
+          "detail": "Rent at the port area (₱350-500/day). The island is a perfect 72km loop — impossible to get lost.",
+          "directions": "Motorcycle rentals are right at Siquijor port. Ask for an automatic scooter. Helmet included. Gas up at the station near the port.",
+          "status": "confirmed"
+        },
+        {
+          "id": "d6-3",
+          "time": "12:00 PM",
+          "icon": "🌊",
+          "type": "activity",
+          "title": "Cambugahay Falls",
+          "detail": "Three-tiered turquoise waterfall with rope swings. The most beautiful falls in the Visayas. Free entrance, ₱20 parking.",
+          "directions": "From Siquijor port, ride south toward Lazi (30 min). Well-signed on the main road. Park at the top and walk down 100 steps.",
+          "status": "confirmed"
+        },
+        {
+          "id": "d6-4",
+          "time": "4:30 PM",
+          "icon": "🌅",
+          "type": "activity",
+          "title": "Paliton Beach Sunset",
+          "detail": "Palm-lined beach with the best sunset on the island. Pack snacks — no restaurants right on the beach.",
+          "directions": "From Cambugahay, continue the loop west toward San Juan. Paliton Beach is signed on the main road. 20 min ride.",
+          "status": "confirmed"
+        },
+        {
+          "id": "d6-5",
+          "time": "7:00 PM",
+          "icon": "🍽️",
+          "type": "food",
+          "title": "Dinner at Salamandas",
+          "detail": "Beachfront restaurant in San Juan. Great Canadian food and cocktails. ₱300-500/person.",
+          "directions": "On the main road in San Juan, past the Coco Grove resort. Look for the blue signage.",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "date": "Fri, Mar 21",
+      "title": "Siquijor Morning & Fly Home",
+      "location": "Siquijor → Dumaguete → Home",
+      "items": [
+        {
+          "id": "d7-1",
+          "time": "7:00 AM",
+          "icon": "🌳",
+          "type": "activity",
+          "title": "Enchanted Balete Tree",
+          "detail": "400-year-old giant fig tree with a fish spa pool at its base. Tiny doctor fish nibble your feet (₱10). Mystical and photogenic.",
+          "directions": "On the main road between Lazi and Siquijor town. 15 min ride from San Juan. Open at dawn — best time to visit before tour groups.",
+          "status": "confirmed"
+        },
+        {
+          "id": "d7-2",
+          "time": "9:00 AM",
+          "icon": "🏊",
+          "type": "activity",
+          "title": "Tubod Marine Sanctuary Snorkeling",
+          "detail": "Protected reef with excellent visibility. Sea turtles, clownfish, and soft corals. ₱50 sanctuary fee.",
+          "directions": "Near San Juan. Enter from the beach at the sanctuary sign. Rent gear from nearby stalls ₱150.",
+          "status": "confirmed"
+        },
+        {
+          "id": "d7-3",
+          "time": "12:00 PM",
+          "icon": "⛴️",
+          "type": "transport",
+          "title": "Ferry to Dumaguete",
+          "detail": "Montenegro Lines, 45 minutes. ₱200/person. Ferries run hourly from 6 AM to 5 PM.",
+          "directions": "Return motorcycle to port rental. Montenegro or GL Shipping — buy ticket at the counter, no pre-booking needed.",
+          "status": "confirmed"
+        },
+        {
+          "id": "d7-4",
+          "time": "1:30 PM",
+          "icon": "🍽️",
+          "type": "food",
+          "title": "Lunch at Sans Rival Cakes",
+          "detail": "Dumaguete institution since 1977. Famous silvanas (frozen buttercream cookies). ₱200-350/person for lunch.",
+          "directions": "On San Jose Street in downtown Dumaguete. 10-min trike ride from the port (₱10-20).",
+          "status": "confirmed"
+        },
+        {
+          "id": "d7-5",
+          "time": "5:00 PM",
+          "icon": "✈️",
+          "type": "transport",
+          "title": "Fly Home from Dumaguete",
+          "detail": "Dumaguete-Sibulan Airport (DGT). Flights to Manila via Cebu Pacific or PAL.",
+          "directions": "Airport is 15 min from downtown. Trike to airport ₱100. Small airport — arrive 1.5 hours before domestic flights.",
+          "status": "confirmed"
+        }
+      ]
+    }
+  ],
+  "weather": [
+    { "day": "Sat", "icon": "☀️", "high": 32, "low": 26, "rain": 10 },
+    { "day": "Sun", "icon": "⛅", "high": 31, "low": 25, "rain": 20 },
+    { "day": "Mon", "icon": "☀️", "high": 33, "low": 26, "rain": 5 },
+    { "day": "Tue", "icon": "⛅", "high": 31, "low": 25, "rain": 15 },
+    { "day": "Wed", "icon": "🌦️", "high": 30, "low": 25, "rain": 30 },
+    { "day": "Thu", "icon": "☀️", "high": 32, "low": 26, "rain": 10 },
+    { "day": "Fri", "icon": "☀️", "high": 33, "low": 27, "rain": 5 }
+  ],
+  "contacts": [
+    { "icon": "🚨", "name": "Philippine Emergency", "role": "Emergency Services", "phone": "911" },
+    { "icon": "🏥", "name": "Chong Hua Hospital", "role": "Cebu City", "phone": "+63-32-233-8000" },
+    { "icon": "🛺", "name": "Kuya Rodel", "role": "Driver — Moalboal", "phone": "+63-917-555-1234" },
+    { "icon": "🗺️", "name": "Ate May", "role": "Guide — Siquijor", "phone": "+63-927-555-5678" },
+    { "icon": "🏥", "name": "Gov. Celestino Hospital", "role": "Bohol", "phone": "+63-38-411-3231" }
+  ],
+  "group": [
+    { "id": "scott", "name": "Scott", "avatar": "🧔", "role": "host", "color": "#0D7377" },
+    { "id": "jenice", "name": "Jenice", "avatar": "👩", "role": "editor", "color": "#E8654A" },
+    { "id": "mike", "name": "Mike", "avatar": "👨", "role": "viewer", "color": "#2D8A4E" },
+    { "id": "sarah", "name": "Sarah", "avatar": "👱‍♀️", "role": "viewer", "color": "#7C3AED" }
+  ],
+  "notifications": [
+    { "id": 1, "type": "change", "by": "jenice", "text": "moved Tarsier Sanctuary to morning slot on Day 4", "time": "2 hours ago", "read": false },
+    { "id": 2, "type": "weather", "text": "Day 5 weather update: 30% rain chance for island hopping. Backup plan ready.", "time": "4 hours ago", "read": false },
+    { "id": 3, "type": "currency", "text": "USD/PHP rate updated: ₱56.20 (was ₱56.45). Budget tracker refreshed.", "time": "Yesterday", "read": true },
+    { "id": 4, "type": "sync", "text": "All 4 devices synced. Last update: 12 min ago.", "time": "12 min ago", "read": true }
+  ],
+  "changeLog": [
+    { "id": 1, "type": "time_changed", "by": "jenice", "time": "2 hours ago", "title": "Tarsier Sanctuary", "from": "2:00 PM", "to": "10:30 AM", "reason": "Better to visit in cooler morning — tarsiers more active", "day": 4, "synced": true },
+    { "id": 2, "type": "added", "by": "scott", "time": "Yesterday", "title": "Loboc River Cruise", "detail": "Added floating lunch cruise — fits perfectly between Chocolate Hills and return", "day": 4, "synced": true },
+    { "id": 3, "type": "swapped", "by": "scott", "time": "2 days ago", "title": "Dinner restaurant", "from": "Generic beach restaurant", "to": "Bohol Bee Farm", "reason": "Organic farm-to-table with ocean views — much better experience", "day": 5, "synced": true },
+    { "id": 4, "type": "removed", "by": "scott", "time": "3 days ago", "title": "Oslob Whale Sharks", "reason": "Ethically questionable — replaced with more Moalboal sardine run time", "day": 2, "synced": true },
+    { "id": 5, "type": "note", "by": "mike", "time": "5 days ago", "title": "Island hopping boat", "detail": "Found cheaper boat — ₱3,000 instead of ₱3,500. Booked with Captain Jun.", "day": 5, "synced": true }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+	"main": "dist/_worker.js/index.js",
+	"name": "discover-canada",
+  "compatibility_date": "2026-02-04",
+  "compatibility_flags": [
+    "nodejs_compat",
+    "global_fetch_strictly_public"
+  ],
+	"assets": {
+		"binding": "ASSETS",
+		"directory": "./dist"
+	},
+	"observability": {
+    "enabled": true
+  },
+"d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "trip-planner-cache-ca",
+      "database_id": "e8648a65-46e6-4ced-bcdb-31ad2a7fadff"
+    }
+  ]
+}

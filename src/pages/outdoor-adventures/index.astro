@@ -1,0 +1,284 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const pageTitle = "Outdoor Adventures in Canada — Hiking, Skiing, Kayaking & Wildlife";
+const pageDescription = "Canada's top outdoor adventures — Rocky Mountain hiking, world-class skiing, sea kayaking, wildlife watching, and camping across 12 iconic destinations.";
+
+interface Adventure {
+  name: string;
+  destination: string;
+  slug: string;
+  season: string;
+  difficulty: string;
+  price: string;
+  description: string;
+  tag?: string;
+}
+
+const adventures: Adventure[] = [
+  {
+    name: "Moraine Lake Hike",
+    destination: "Banff",
+    slug: "banff",
+    season: "June – October",
+    difficulty: "Easy",
+    price: "$10.50 CAD park pass",
+    description: "Walk the Rockpile Trail (20 min) to the most photographed view in Canada — Valley of Ten Peaks reflected in turquoise water. Arrive before 7am or take the Parks Canada shuttle.",
+    tag: "Iconic"
+  },
+  {
+    name: "Whistler Blackcomb Skiing",
+    destination: "Whistler",
+    slug: "whistler",
+    season: "November – April",
+    difficulty: "All levels",
+    price: "$175-220 CAD/day lift ticket",
+    description: "North America's premier ski resort: 8,171 acres, two mountains, 200+ runs, 16 alpine bowls. Connected by the world-record Peak 2 Peak Gondola.",
+    tag: "World Class"
+  },
+  {
+    name: "Icefields Parkway Drive & Glacier Walk",
+    destination: "Jasper",
+    slug: "jasper",
+    season: "May – October",
+    difficulty: "Easy",
+    price: "$53 CAD Ice Explorer",
+    description: "Drive 230km of continuous mountain scenery from Banff to Jasper, then walk on the Athabasca Glacier at 2,200m elevation. One of the world's great road trip experiences.",
+    tag: "Must-Do"
+  },
+  {
+    name: "Sea Kayaking — Broken Group Islands",
+    destination: "Vancouver",
+    slug: "vancouver",
+    season: "May – September",
+    difficulty: "Intermediate",
+    price: "$150-250 CAD/guided day",
+    description: "Paddle the Pacific Rim National Park Reserve's Broken Group Islands — 100+ islands with sea otters, harbour seals, grey whales, and old-growth forest.",
+  },
+  {
+    name: "Whale Watching — Salish Sea",
+    destination: "Victoria",
+    slug: "victoria",
+    season: "May – October",
+    difficulty: "Easy",
+    price: "$120-150 CAD",
+    description: "Orca pods (resident and transient), humpback whales, minke whales, and Dall's porpoise in the waters around Vancouver Island. Best sightings May through September.",
+    tag: "Wildlife"
+  },
+  {
+    name: "Cycling the Confederation Trail",
+    destination: "Prince Edward Island",
+    slug: "prince-edward-island",
+    season: "May – October",
+    difficulty: "Easy",
+    price: "Free (bike rental $30-45 CAD/day)",
+    description: "470km of flat, car-free crushed stone trail across the entire island on converted railway right-of-way. Canada's best recreational cycling trail.",
+  },
+  {
+    name: "Grouse Grind — Vancouver",
+    destination: "Vancouver",
+    slug: "vancouver",
+    season: "May – November",
+    difficulty: "Hard",
+    price: "Free (gondola down $10 CAD)",
+    description: "2.9km trail straight up Grouse Mountain — 853m elevation gain in under 3km. Called the Mother of All Hikes. Locals race it; visitors suffer it. Both are rewarding.",
+  },
+  {
+    name: "Maligne Lake Canoe — Jasper",
+    destination: "Jasper",
+    slug: "jasper",
+    season: "June – September",
+    difficulty: "Easy",
+    price: "$75 CAD boat tour",
+    description: "The only way to reach Spirit Island — the most iconic image in the Canadian Rockies. 22km glacial lake cruise to a tiny pine-covered island in turquoise water.",
+    tag: "Iconic"
+  },
+  {
+    name: "Backcountry Camping — Banff",
+    destination: "Banff",
+    slug: "banff",
+    season: "July – September",
+    difficulty: "Hard",
+    price: "$9.80 CAD/night + park pass",
+    description: "Multi-day backcountry routes in Banff National Park: Egypt Lake, Skoki Valley, and the Rockwall trail all offer wilderness camping with mountain scenery.",
+  },
+  {
+    name: "Rideau Canal Skating",
+    destination: "Ottawa",
+    slug: "ottawa",
+    season: "January – March",
+    difficulty: "Easy",
+    price: "Free (skate rental $12 CAD)",
+    description: "Skate 7.8km on the world's longest skating rink. BeaverTail pastry kiosks provide fuel. The Winterlude festival in February adds ice sculptures and events.",
+    tag: "Winter"
+  },
+  {
+    name: "Wildlife Viewing — Banff's Wildlife Corridor",
+    destination: "Banff",
+    slug: "banff",
+    season: "Year-round",
+    difficulty: "Easy",
+    price: "$10.50 CAD park pass",
+    description: "Elk, bears, bighorn sheep, moose, and wolves all roam freely in Banff. Dawn and dusk drives along the Minnewanka Loop and Bow Valley Parkway offer the best sightings.",
+    tag: "Wildlife"
+  },
+  {
+    name: "Sunrise Hike — Tunnel Mountain",
+    destination: "Banff",
+    slug: "banff",
+    season: "May – October",
+    difficulty: "Easy",
+    price: "Free",
+    description: "2.7km return hike to Tunnel Mountain summit (1,692m) for 360-degree views over Banff town, the Bow River, and surrounding peaks. Perfect first Rockies hike.",
+  },
+];
+
+const faqs = [
+  {
+    question: "What is the best outdoor adventure in Canada?",
+    answer: "This depends on your interests, but the Icefields Parkway drive with stops at Peyto Lake and the Columbia Icefield is widely considered Canada's most impressive outdoor experience. For hikers specifically, Banff's Lake Louise and Moraine Lake trails are iconic. For skiers, Whistler Blackcomb is world-class."
+  },
+  {
+    question: "Do I need hiking experience to visit Banff and Jasper?",
+    answer: "No — both parks have excellent trails for all experience levels. The Rockpile Trail at Moraine Lake (20 min), Bow Falls in Banff (15 min walk), and the main lake shoreline trails are accessible to everyone. More challenging hikes require fitness but not technical climbing skills."
+  },
+  {
+    question: "When is the best time for outdoor adventures in Canada?",
+    answer: "July and August are peak season with all trails and activities open. September is excellent — fewer crowds, still warm, larch trees turn gold. June is good for most activities but some mountain roads remain closed until mid-June. Winter opens skiing, skating, and snowshoeing opportunities."
+  },
+  {
+    question: "Is it safe to hike in bear country?",
+    answer: "Yes, with proper precautions. Carry bear spray (mandatory in Banff backcountry, $10/day rental). Hike in groups. Make noise on the trail. Keep 100m distance from bears and wolves, 30m from other wildlife. Parks Canada wardens provide briefings at trailheads."
+  },
+  {
+    question: "What outdoor gear should I bring to Canada?",
+    answer: "Hiking boots (trail runners work for day hikes), waterproof rain jacket (mountain weather changes fast), layers for temperature swings, sunscreen, water bottle, and offline maps downloaded (cell service is absent on most trails). Bear spray if hiking in national parks."
+  }
+];
+---
+
+<BaseLayout title={pageTitle} description={pageDescription}>
+  <main>
+    <!-- Hero -->
+    <section style="background: linear-gradient(135deg, #0c3547 0%, #0d7377 50%, #14532d 100%); color: white; padding: 4rem 1.5rem; text-align: center;">
+      <div style="max-width: 800px; margin: 0 auto;">
+        <div style="font-size: 3rem; margin-bottom: 1rem;">🏔️</div>
+        <h1 style="font-size: 2.5rem; font-weight: 700; margin-bottom: 1rem; font-family: 'DM Serif Display', serif;">
+          Outdoor Adventures in Canada
+        </h1>
+        <p style="font-size: 1.2rem; opacity: 0.9; max-width: 600px; margin: 0 auto 1.5rem;">
+          From world-class skiing in Whistler to hiking the Rockies, kayaking the Pacific, and watching orcas in the Salish Sea — Canada's outdoors are extraordinary.
+        </p>
+        <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+          <span style="background: rgba(255,255,255,0.2); padding: 0.5rem 1rem; border-radius: 9999px; font-size: 0.9rem;">12 Destinations</span>
+          <span style="background: rgba(255,255,255,0.2); padding: 0.5rem 1rem; border-radius: 9999px; font-size: 0.9rem;">All Seasons</span>
+          <span style="background: rgba(255,255,255,0.2); padding: 0.5rem 1rem; border-radius: 9999px; font-size: 0.9rem;">All Abilities</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Adventure Grid -->
+    <section style="max-width: 1120px; margin: 3rem auto; padding: 0 1.5rem;">
+      <h2 style="font-size: 1.8rem; font-weight: 700; margin-bottom: 2rem; font-family: 'DM Serif Display', serif;">
+        Canada's Top Outdoor Adventures
+      </h2>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 1.5rem;">
+        {adventures.map((adv) => (
+          <article style="background: white; border-radius: 16px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border: 1px solid #EBE4D8; position: relative;">
+            {adv.tag && (
+              <span style="position: absolute; top: 1rem; right: 1rem; background: #0D7377; color: white; padding: 0.25rem 0.75rem; border-radius: 9999px; font-size: 0.75rem; font-weight: 600;">
+                {adv.tag}
+              </span>
+            )}
+            <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 0.5rem; padding-right: adv.tag ? '5rem' : '0';">
+              {adv.name}
+            </h3>
+            <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 0.75rem;">
+              <a href={`/destinations/${adv.slug}/`} style="color: #0D7377; font-size: 0.85rem; font-weight: 600; text-decoration: none;">
+                📍 {adv.destination}
+              </a>
+              <span style="color: #888; font-size: 0.85rem;">·</span>
+              <span style="color: #666; font-size: 0.85rem;">📅 {adv.season}</span>
+            </div>
+            <p style="color: #4A5568; font-size: 0.9rem; line-height: 1.6; margin-bottom: 1rem;">
+              {adv.description}
+            </p>
+            <div style="display: flex; justify-content: space-between; align-items: center; padding-top: 0.75rem; border-top: 1px solid #EBE4D8;">
+              <span style="font-size: 0.85rem; color: #666;">
+                💪 {adv.difficulty}
+              </span>
+              <span style="font-size: 0.85rem; font-weight: 600; color: #0D7377;">
+                {adv.price}
+              </span>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <!-- Seasonal Guide -->
+    <section style="background: #F5F0E8; padding: 3rem 1.5rem;">
+      <div style="max-width: 900px; margin: 0 auto;">
+        <h2 style="font-size: 1.8rem; font-weight: 700; margin-bottom: 2rem; font-family: 'DM Serif Display', serif; text-align: center;">
+          Adventures by Season
+        </h2>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1.5rem;">
+          <div style="background: white; padding: 1.5rem; border-radius: 12px; text-align: center;">
+            <div style="font-size: 2rem; margin-bottom: 0.5rem;">❄️</div>
+            <h3 style="font-weight: 700; margin-bottom: 0.5rem;">Winter</h3>
+            <p style="font-size: 0.85rem; color: #666;">Skiing Whistler &amp; Banff, Rideau Canal skating, Northern Lights, ice climbing</p>
+          </div>
+          <div style="background: white; padding: 1.5rem; border-radius: 12px; text-align: center;">
+            <div style="font-size: 2rem; margin-bottom: 0.5rem;">🌸</div>
+            <h3 style="font-weight: 700; margin-bottom: 0.5rem;">Spring</h3>
+            <p style="font-size: 0.85rem; color: #666;">Cherry blossoms in Vancouver, birding at Point Pelee, maple syrup season</p>
+          </div>
+          <div style="background: white; padding: 1.5rem; border-radius: 12px; text-align: center;">
+            <div style="font-size: 2rem; margin-bottom: 0.5rem;">☀️</div>
+            <h3 style="font-weight: 700; margin-bottom: 0.5rem;">Summer</h3>
+            <p style="font-size: 0.85rem; color: #666;">Rocky Mountain hiking, sea kayaking BC coast, whale watching, PEI beaches</p>
+          </div>
+          <div style="background: white; padding: 1.5rem; border-radius: 12px; text-align: center;">
+            <div style="font-size: 2rem; margin-bottom: 0.5rem;">🍂</div>
+            <h3 style="font-weight: 700; margin-bottom: 0.5rem;">Fall</h3>
+            <p style="font-size: 0.85rem; color: #666;">Larch hiking Banff, elk rut in Jasper, foliage Laurentians, wildlife at peak</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section style="max-width: 800px; margin: 3rem auto; padding: 0 1.5rem;">
+      <h2 style="font-size: 1.8rem; font-weight: 700; margin-bottom: 1.5rem; font-family: 'DM Serif Display', serif;">
+        Outdoor Adventure FAQs
+      </h2>
+      <div style="display: flex; flex-direction: column; gap: 1rem;">
+        {faqs.map((faq) => (
+          <details style="background: white; border: 1px solid #EBE4D8; border-radius: 12px; padding: 1.25rem;">
+            <summary style="font-weight: 600; cursor: pointer; list-style: none; display: flex; justify-content: space-between;">
+              {faq.question}
+              <span>+</span>
+            </summary>
+            <p style="color: #4A5568; margin-top: 0.75rem; line-height: 1.65;">{faq.answer}</p>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section style="background: #0D7377; color: white; padding: 3rem 1.5rem; text-align: center;">
+      <div style="max-width: 600px; margin: 0 auto;">
+        <h2 style="font-size: 1.8rem; font-weight: 700; margin-bottom: 1rem; font-family: 'DM Serif Display', serif;">
+          Plan Your Canadian Adventure
+        </h2>
+        <p style="opacity: 0.9; margin-bottom: 1.5rem;">
+          Tell our AI trip planner what outdoor activities excite you and get a custom Canadian itinerary in seconds.
+        </p>
+        <a href="/plan/" style="background: white; color: #0D7377; padding: 0.875rem 2rem; border-radius: 9999px; font-weight: 700; text-decoration: none; display: inline-block;">
+          Build My Adventure Trip
+        </a>
+      </div>
+    </section>
+  </main>
+</BaseLayout>

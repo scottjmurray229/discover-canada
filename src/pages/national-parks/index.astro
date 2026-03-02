@@ -1,0 +1,276 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const pageTitle = "Canada's National Parks Guide — Banff, Jasper, Pacific Rim & More";
+const pageDescription = "Complete guide to Canada's national parks — Parks Canada pass info, seasonal access, top hikes, wildlife viewing, and how to visit Banff and Jasper responsibly.";
+
+interface Park {
+  name: string;
+  province: string;
+  destinationSlug: string;
+  size: string;
+  established: string;
+  bestFor: string[];
+  topHighlight: string;
+  passRequired: boolean;
+  bestMonths: string;
+  description: string;
+}
+
+const parks: Park[] = [
+  {
+    name: "Banff National Park",
+    province: "Alberta",
+    destinationSlug: "banff",
+    size: "6,641 km²",
+    established: "1885 (Canada's first national park)",
+    bestFor: ["Hiking", "Wildlife", "Photography", "Skiing"],
+    topHighlight: "Lake Louise and Moraine Lake",
+    passRequired: true,
+    bestMonths: "June–September, December–March",
+    description: "Canada's most visited and most iconic national park. Turquoise glacial lakes, the Rocky Mountains at their most dramatic, and elk walking down the main street of town."
+  },
+  {
+    name: "Jasper National Park",
+    province: "Alberta",
+    destinationSlug: "jasper",
+    size: "10,878 km²",
+    established: "1907",
+    bestFor: ["Dark Sky", "Wildlife", "Glaciers", "Stargazing"],
+    topHighlight: "Columbia Icefield and Maligne Lake",
+    passRequired: true,
+    bestMonths: "June–October",
+    description: "Larger and wilder than Banff. The world's largest accessible dark sky preserve, the Columbia Icefield, and Maligne Lake's Spirit Island make this equally extraordinary."
+  },
+  {
+    name: "Pacific Rim National Park Reserve",
+    province: "British Columbia",
+    destinationSlug: "victoria",
+    size: "511 km²",
+    established: "1970",
+    bestFor: ["Surfing", "Hiking", "Whale Watching", "Ancient Rainforest"],
+    topHighlight: "Long Beach and the West Coast Trail",
+    passRequired: true,
+    bestMonths: "March–October",
+    description: "Storm-watching in winter, surfing in spring, and hiking ancient rainforest year-round. Tofino is the gateway — one of Canada's most dramatic coastal experiences."
+  },
+  {
+    name: "Fundy National Park",
+    province: "New Brunswick",
+    destinationSlug: "prince-edward-island",
+    size: "206 km²",
+    established: "1948",
+    bestFor: ["Tides", "Hiking", "Kayaking", "Wildlife"],
+    topHighlight: "Bay of Fundy — world's highest tides",
+    passRequired: true,
+    bestMonths: "June–September",
+    description: "Home to the world's highest tides (16m). The tidal flats become mudflats twice a day, revealing a landscape unlike anything else. Excellent hiking and sea kayaking."
+  },
+  {
+    name: "Cape Breton Highlands National Park",
+    province: "Nova Scotia",
+    destinationSlug: "prince-edward-island",
+    size: "948 km²",
+    established: "1936",
+    bestFor: ["Cabot Trail Drive", "Hiking", "Whale Watching", "Fall Foliage"],
+    topHighlight: "Cabot Trail — one of Canada's great drives",
+    passRequired: true,
+    bestMonths: "July–October",
+    description: "The Cabot Trail circles this park through some of the most dramatic coastal scenery in eastern Canada. Fall foliage (late September) draws visitors from across North America."
+  },
+  {
+    name: "Banff-Yoho-Kootenay Corridor",
+    province: "Alberta/BC",
+    destinationSlug: "banff",
+    size: "Combined 5,000+ km²",
+    established: "1886-1920",
+    bestFor: ["Roadside Scenery", "Hiking", "Backcountry"],
+    topHighlight: "Emerald Lake and Takakkaw Falls",
+    passRequired: true,
+    bestMonths: "June–September",
+    description: "Yoho and Kootenay national parks adjoin Banff and are included in the same Discovery Pass. Yoho's Emerald Lake and Takakkaw Falls (373m) are spectacular and less crowded."
+  },
+];
+
+const faqs = [
+  {
+    question: "What is the Parks Canada Discovery Pass and is it worth it?",
+    answer: "The Discovery Pass ($75.25 CAD per adult, $219.50 CAD per family/group) provides unlimited entry to 80+ national parks and historic sites for one year. If you're visiting more than 7 park days during your trip, it pays for itself versus buying $10.50 CAD day passes. Buy online at pc.gc.ca before your visit."
+  },
+  {
+    question: "When do mountain roads in Banff open after winter?",
+    answer: "Most main roads open by early May. The Icefields Parkway is open year-round (weather permitting). The Moraine Lake Road opens mid-June and closes in mid-October. The Banff–Windermere Parkway (to Kootenay) opens in mid-May. Check pc.gc.ca/banff for current road conditions."
+  },
+  {
+    question: "Do I need to book campsites in advance?",
+    answer: "Yes, especially for summer and any long weekends. Most national park front-country campsites are bookable at reservation.pc.gc.ca from 90 days in advance. Backcountry permits require separate booking. Banff and Jasper campgrounds sell out within minutes of opening in peak season — set a calendar alert."
+  },
+  {
+    question: "What is the difference between national parks and provincial parks?",
+    answer: "National parks are federally managed by Parks Canada and require the Discovery Pass. Provincial parks are managed by each province (BC Parks, Alberta Parks, etc.) and have separate admission systems — usually cheaper or free. The Rocky Mountain provincial parks (Kananaskis in Alberta, Garibaldi in BC) offer outstanding experiences with fewer crowds than the national parks."
+  },
+  {
+    question: "Are pets allowed in national parks?",
+    answer: "Yes, on leash at all times. Dogs must be kept on a maximum 3m leash in all national park areas. This is enforced — fines are real. Dogs are not allowed in the backcountry in some areas to protect wildlife. Check specific park regulations at pc.gc.ca."
+  }
+];
+---
+
+<BaseLayout title={pageTitle} description={pageDescription}>
+  <main>
+    <!-- Hero -->
+    <section style="background: linear-gradient(135deg, #064e3b 0%, #065f46 40%, #0D7377 100%); color: white; padding: 4rem 1.5rem; text-align: center;">
+      <div style="max-width: 800px; margin: 0 auto;">
+        <div style="font-size: 3rem; margin-bottom: 1rem;">🏞️</div>
+        <h1 style="font-size: 2.5rem; font-weight: 700; margin-bottom: 1rem; font-family: 'DM Serif Display', serif;">
+          Canada's National Parks
+        </h1>
+        <p style="font-size: 1.2rem; opacity: 0.9; max-width: 640px; margin: 0 auto 1.5rem;">
+          Forty-four national parks protecting 340,000 square kilometres. From the Rocky Mountain giants to the Atlantic's dramatic coastlines — here's how to experience them.
+        </p>
+        <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+          <a href="https://reservation.pc.gc.ca" target="_blank" rel="noopener" style="background: white; color: #065f46; padding: 0.75rem 1.5rem; border-radius: 9999px; font-weight: 700; text-decoration: none;">
+            Book Campsites → Parks Canada
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Parks Canada Pass Info -->
+    <section style="background: #E8F4F5; padding: 2rem 1.5rem;">
+      <div style="max-width: 900px; margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: center;">
+        <div>
+          <h2 style="font-size: 1.4rem; font-weight: 700; margin-bottom: 0.75rem;">Parks Canada Discovery Pass</h2>
+          <p style="color: #4A5568; line-height: 1.65; margin-bottom: 1rem;">
+            One pass for unlimited access to 80+ national parks and historic sites across Canada for one year. If you're spending more than 7 park days, it pays for itself.
+          </p>
+          <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 0.5rem;">
+            <li style="display: flex; align-items: center; gap: 0.5rem; font-size: 0.9rem;">
+              <span style="color: #0D7377;">✓</span> Adult (18–64): $75.25 CAD
+            </li>
+            <li style="display: flex; align-items: center; gap: 0.5rem; font-size: 0.9rem;">
+              <span style="color: #0D7377;">✓</span> Senior (65+): $64.70 CAD
+            </li>
+            <li style="display: flex; align-items: center; gap: 0.5rem; font-size: 0.9rem;">
+              <span style="color: #0D7377;">✓</span> Youth (under 18): Free
+            </li>
+            <li style="display: flex; align-items: center; gap: 0.5rem; font-size: 0.9rem;">
+              <span style="color: #0D7377;">✓</span> Family/Group: $219.50 CAD (up to 7 people)
+            </li>
+            <li style="display: flex; align-items: center; gap: 0.5rem; font-size: 0.9rem;">
+              <span style="color: #888;">·</span> Day pass: $10.50 CAD per adult
+            </li>
+          </ul>
+        </div>
+        <div style="background: white; padding: 1.5rem; border-radius: 12px; text-align: center;">
+          <h3 style="font-weight: 700; margin-bottom: 0.5rem;">Buy Before You Go</h3>
+          <p style="font-size: 0.85rem; color: #666; margin-bottom: 1rem;">Skip the gate queue. Buy the Discovery Pass online at pc.gc.ca before your trip.</p>
+          <a href="https://www.pc.gc.ca/en/voyage-travel/admission" target="_blank" rel="noopener" style="background: #0D7377; color: white; padding: 0.75rem 1.5rem; border-radius: 9999px; font-weight: 600; text-decoration: none; display: inline-block;">
+            Buy Discovery Pass
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Park Cards -->
+    <section style="max-width: 1120px; margin: 3rem auto; padding: 0 1.5rem;">
+      <h2 style="font-size: 1.8rem; font-weight: 700; margin-bottom: 2rem; font-family: 'DM Serif Display', serif;">
+        Canada's Major National Parks
+      </h2>
+      <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 1.5rem;">
+        {parks.map((park) => (
+          <article style="background: white; border-radius: 16px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border: 1px solid #EBE4D8;">
+            <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.75rem;">
+              <h3 style="font-size: 1.1rem; font-weight: 700; flex: 1;">{park.name}</h3>
+            </div>
+            <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: 0.75rem; font-size: 0.8rem; color: #666;">
+              <span>📍 {park.province}</span>
+              <span>📐 {park.size}</span>
+              <span>📅 Est. {park.established}</span>
+            </div>
+            <p style="color: #4A5568; font-size: 0.9rem; line-height: 1.6; margin-bottom: 1rem;">
+              {park.description}
+            </p>
+            <div style="margin-bottom: 1rem;">
+              <strong style="font-size: 0.85rem;">Top highlight:</strong>
+              <span style="font-size: 0.85rem; color: #0D7377; margin-left: 0.25rem;">{park.topHighlight}</span>
+            </div>
+            <div style="margin-bottom: 1rem;">
+              <strong style="font-size: 0.85rem;">Best months:</strong>
+              <span style="font-size: 0.85rem; color: #666; margin-left: 0.25rem;">{park.bestMonths}</span>
+            </div>
+            <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+              {park.bestFor.map((activity) => (
+                <span style="background: #E8F4F5; color: #0D7377; padding: 0.2rem 0.6rem; border-radius: 9999px; font-size: 0.75rem; font-weight: 600;">
+                  {activity}
+                </span>
+              ))}
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <!-- Camping Tips -->
+    <section style="background: #F5F0E8; padding: 3rem 1.5rem;">
+      <div style="max-width: 800px; margin: 0 auto;">
+        <h2 style="font-size: 1.8rem; font-weight: 700; margin-bottom: 1.5rem; font-family: 'DM Serif Display', serif; text-align: center;">
+          Camping in Canadian National Parks
+        </h2>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;">
+          <div style="background: white; padding: 1.5rem; border-radius: 12px;">
+            <h3 style="font-weight: 700; margin-bottom: 0.75rem;">Front-Country Camping</h3>
+            <p style="font-size: 0.9rem; color: #666; line-height: 1.6;">Drive-in campgrounds accessible by car. Electrical hookups at some sites. Booking opens 90 days ahead at reservation.pc.gc.ca. $22-42 CAD per night. Very competitive in summer.</p>
+          </div>
+          <div style="background: white; padding: 1.5rem; border-radius: 12px;">
+            <h3 style="font-weight: 700; margin-bottom: 0.75rem;">Backcountry Camping</h3>
+            <p style="font-size: 0.9rem; color: #666; line-height: 1.6;">Wilderness camping on designated sites accessible only on foot. Permit required ($9.80 CAD/night per person). Bear canisters required. Register your itinerary at the park information centre.</p>
+          </div>
+          <div style="background: white; padding: 1.5rem; border-radius: 12px;">
+            <h3 style="font-weight: 700; margin-bottom: 0.75rem;">Roofed Accommodations</h3>
+            <p style="font-size: 0.9rem; color: #666; line-height: 1.6;">Parks Canada operates oTENTiks (canvas tent/cabin hybrids, $120-150 CAD/night), MĪRA pods, and some cabins. These book out instantly — check at pc.gc.ca for availability.</p>
+          </div>
+          <div style="background: white; padding: 1.5rem; border-radius: 12px;">
+            <h3 style="font-weight: 700; margin-bottom: 0.75rem;">Campfire Rules</h3>
+            <p style="font-size: 0.9rem; color: #666; line-height: 1.6;">Campfires are only permitted in designated fire pits. Many parks implement fire bans during dry summer periods. Always check current fire conditions. Firewood is sold at campgrounds ($10 CAD/bundle) — don't bring your own.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section style="max-width: 800px; margin: 3rem auto; padding: 0 1.5rem;">
+      <h2 style="font-size: 1.8rem; font-weight: 700; margin-bottom: 1.5rem; font-family: 'DM Serif Display', serif;">
+        National Parks FAQs
+      </h2>
+      <div style="display: flex; flex-direction: column; gap: 1rem;">
+        {faqs.map((faq) => (
+          <details style="background: white; border: 1px solid #EBE4D8; border-radius: 12px; padding: 1.25rem;">
+            <summary style="font-weight: 600; cursor: pointer; list-style: none;">{faq.question}</summary>
+            <p style="color: #4A5568; margin-top: 0.75rem; line-height: 1.65;">{faq.answer}</p>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section style="background: #065f46; color: white; padding: 3rem 1.5rem; text-align: center;">
+      <div style="max-width: 600px; margin: 0 auto;">
+        <h2 style="font-size: 1.8rem; font-weight: 700; margin-bottom: 1rem; font-family: 'DM Serif Display', serif;">
+          Plan Your National Park Visit
+        </h2>
+        <p style="opacity: 0.9; margin-bottom: 1.5rem;">
+          Our AI trip planner builds park itineraries based on your interests, dates, and budget.
+        </p>
+        <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+          <a href="/plan/" style="background: white; color: #065f46; padding: 0.875rem 2rem; border-radius: 9999px; font-weight: 700; text-decoration: none;">
+            Plan My Park Trip
+          </a>
+          <a href="/destinations/banff/" style="border: 2px solid white; color: white; padding: 0.875rem 2rem; border-radius: 9999px; font-weight: 700; text-decoration: none;">
+            Explore Banff Guide →
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+</BaseLayout>

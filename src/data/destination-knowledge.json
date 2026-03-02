@@ -1,0 +1,112 @@
+{
+  "country": "Canada",
+  "currency": {
+    "code": "CAD",
+    "name": "Canadian Dollar",
+    "usdRate": "1 USD approx 1.36 CAD",
+    "cashTips": "Credit cards accepted everywhere. ATMs widely available."
+  },
+  "visa": {
+    "usAndUkCitizens": "No visa required for stays under 6 months. eTA required for air travel.",
+    "euCitizens": "eTA required for air travel. No visa for stays under 6 months.",
+    "processingTime": "eTA usually approved within minutes online at canada.ca/eTA"
+  },
+  "destinations": {
+    "banff": {
+      "name": "Banff", "region": "west", "province": "Alberta",
+      "mustSee": ["Lake Louise", "Moraine Lake", "Icefields Parkway", "Banff Upper Hot Springs"],
+      "budgetRange": {"backpacker": 80, "midRange": 160, "luxury": 350},
+      "bestFor": ["couples", "adventure", "photographers", "hikers"],
+      "transport": "Car essential. Fly into Calgary (YYC), 1.5 hrs by shuttle.",
+      "bestMonths": ["June", "July", "August", "September", "December", "January"]
+    },
+    "vancouver": {
+      "name": "Vancouver", "region": "west", "province": "British Columbia",
+      "mustSee": ["Stanley Park", "Granville Island Market", "Capilano Suspension Bridge", "Gastown"],
+      "budgetRange": {"backpacker": 90, "midRange": 180, "luxury": 400},
+      "bestFor": ["couples", "families", "foodies", "outdoor enthusiasts"],
+      "transport": "Excellent SkyTrain transit. Fly into YVR.",
+      "bestMonths": ["June", "July", "August", "September"]
+    },
+    "toronto": {
+      "name": "Toronto", "region": "central", "province": "Ontario",
+      "mustSee": ["CN Tower", "Kensington Market", "Distillery District", "Royal Ontario Museum"],
+      "budgetRange": {"backpacker": 85, "midRange": 175, "luxury": 400},
+      "bestFor": ["couples", "families", "foodies", "culture lovers"],
+      "transport": "TTC subway and streetcar. Fly into Pearson (YYZ) or Billy Bishop (YTZ).",
+      "bestMonths": ["June", "July", "August", "September", "October"]
+    },
+    "quebec-city": {
+      "name": "Quebec City", "region": "east", "province": "Quebec",
+      "mustSee": ["Old Quebec UNESCO", "Chateau Frontenac", "Plains of Abraham", "Petit-Champlain"],
+      "budgetRange": {"backpacker": 75, "midRange": 150, "luxury": 350},
+      "bestFor": ["couples", "history lovers", "winter travelers"],
+      "transport": "Walkable Old City. Fly into Jean Lesage Airport (YQB).",
+      "bestMonths": ["February", "June", "July", "August", "December"]
+    },
+    "jasper": {
+      "name": "Jasper", "region": "west", "province": "Alberta",
+      "mustSee": ["Columbia Icefield", "Athabasca Falls", "Maligne Lake", "Dark Sky Preserve"],
+      "budgetRange": {"backpacker": 75, "midRange": 150, "luxury": 320},
+      "bestFor": ["adventure", "photographers", "astronomy", "wildlife watching"],
+      "transport": "Drive Icefields Parkway from Banff (230km). VIA Rail from Edmonton.",
+      "bestMonths": ["June", "July", "August", "September", "October"]
+    },
+    "whistler": {
+      "name": "Whistler", "region": "west", "province": "British Columbia",
+      "mustSee": ["Peak 2 Peak Gondola", "Whistler Mountain", "Blackcomb Mountain", "Whistler Village"],
+      "budgetRange": {"backpacker": 100, "midRange": 200, "luxury": 500},
+      "bestFor": ["adventure", "skiing", "mountain biking", "couples"],
+      "transport": "Sea-to-Sky Highway from Vancouver (2 hrs).",
+      "bestMonths": ["December", "January", "February", "March", "July", "August"]
+    },
+    "niagara-falls": {
+      "name": "Niagara Falls", "region": "central", "province": "Ontario",
+      "mustSee": ["Horseshoe Falls", "Maid of the Mist", "Journey Behind the Falls", "Niagara-on-the-Lake"],
+      "budgetRange": {"backpacker": 70, "midRange": 140, "luxury": 300},
+      "bestFor": ["families", "couples", "day-trippers from Toronto"],
+      "transport": "90 min from Toronto by car or GO Bus.",
+      "bestMonths": ["June", "July", "August", "September"]
+    },
+    "victoria": {
+      "name": "Victoria", "region": "west", "province": "British Columbia",
+      "mustSee": ["Butchart Gardens", "Inner Harbour", "Royal BC Museum", "Whale watching"],
+      "budgetRange": {"backpacker": 80, "midRange": 160, "luxury": 350},
+      "bestFor": ["couples", "families", "garden lovers", "cyclists"],
+      "transport": "BC Ferries from Vancouver area 90 min. Float plane 35 min.",
+      "bestMonths": ["May", "June", "July", "August", "September"]
+    },
+    "montreal": {
+      "name": "Montreal", "region": "east", "province": "Quebec",
+      "mustSee": ["Old Montreal", "Mount Royal Park", "Mile End bagels", "Jean-Talon Market"],
+      "budgetRange": {"backpacker": 75, "midRange": 150, "luxury": 350},
+      "bestFor": ["foodies", "culture lovers", "festival-goers", "nightlife"],
+      "transport": "STM metro. Fly into Trudeau Airport (YUL). VIA Rail from Toronto (5 hrs).",
+      "bestMonths": ["June", "July", "August", "September", "October"]
+    },
+    "calgary": {
+      "name": "Calgary", "region": "west", "province": "Alberta",
+      "mustSee": ["Calgary Stampede", "Inglewood neighborhood", "Studio Bell music centre"],
+      "budgetRange": {"backpacker": 75, "midRange": 150, "luxury": 320},
+      "bestFor": ["adventure seekers", "Stampede visitors", "Rockies gateway"],
+      "transport": "CTrain light rail. Fly into Calgary International (YYC).",
+      "bestMonths": ["July", "August", "September"]
+    },
+    "ottawa": {
+      "name": "Ottawa", "region": "central", "province": "Ontario",
+      "mustSee": ["Parliament Hill", "Changing of the Guard", "Rideau Canal", "Canadian Museum of History"],
+      "budgetRange": {"backpacker": 70, "midRange": 140, "luxury": 300},
+      "bestFor": ["families", "history lovers", "winter travelers", "museum lovers"],
+      "transport": "OC Transpo bus/LRT. Fly into Ottawa International (YOW).",
+      "bestMonths": ["February", "June", "July", "August", "September"]
+    },
+    "prince-edward-island": {
+      "name": "Prince Edward Island", "region": "east", "province": "Prince Edward Island",
+      "mustSee": ["Green Gables Heritage Place", "Red sand beaches", "Confederation Trail", "lobster suppers"],
+      "budgetRange": {"backpacker": 65, "midRange": 130, "luxury": 280},
+      "bestFor": ["families", "cyclists", "foodies", "literary fans"],
+      "transport": "Confederation Bridge from New Brunswick (13km). Fly into Charlottetown (YYG).",
+      "bestMonths": ["June", "July", "August", "September"]
+    }
+  }
+}
