@@ -4,6 +4,7 @@ description: "Canada's bilingual cultural capital — Old Montreal, Mount Royal,
 region: east
 heroVideo: ""
 heroImage: ""
+heroAlt: "Old Montreal cobblestone streets and Notre-Dame Basilica illuminated at night, Canada"
 tagline: "Poutine, bagels, jazz festivals, underground city, the best brunch scene in North America, and an attitude that is entirely its own"
 bestMonths: ["June", "July", "August", "September", "October"]
 budgetPerDay:

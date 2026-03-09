@@ -4,6 +4,7 @@ description: "North America's only walled city north of Mexico — UNESCO-listed
 region: east
 heroVideo: ""
 heroImage: ""
+heroAlt: "Château Frontenac castle dominating the snow-dusted Old Quebec skyline, Canada"
 tagline: "North America's only walled city north of Mexico — cobblestone Vieux-Québec, Château Frontenac, and a French soul that has survived 400 years"
 bestMonths: ["February", "June", "July", "August", "December"]
 budgetPerDay:

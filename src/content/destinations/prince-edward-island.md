@@ -4,6 +4,7 @@ description: "Anne of Green Gables country — red sand beaches, lobster suppers
 region: east
 heroVideo: ""
 heroImage: ""
+heroAlt: "Red cliff coastline, green fields, and lighthouse on Prince Edward Island, Canada"
 tagline: "Anne of Green Gables, the world's best lobster suppers, red sand beaches, and the gentlest province in the country"
 bestMonths: ["June", "July", "August", "September"]
 budgetPerDay:

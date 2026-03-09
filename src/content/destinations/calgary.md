@@ -4,6 +4,7 @@ description: "The gateway to the Canadian Rockies — Calgary Stampede, a vibran
 region: west
 heroVideo: ""
 heroImage: ""
+heroAlt: "Calgary Stampede chuckwagon race arena with the Rockies on the horizon, Alberta, Canada"
 tagline: "Stampede in July, Bow River pathways year-round, Rocky Mountain access, and a food scene that finally matches the city's ambition"
 bestMonths: ["July", "August", "September"]
 budgetPerDay:

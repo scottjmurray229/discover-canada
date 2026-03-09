@@ -2,6 +2,7 @@
 title: "Tofino"
 description: "Discover Tofino — Vancouver Island's wild Pacific surf town with old-growth forest, grey whale migration, storm watching season, and Canada's best surf beaches."
 heroImage: ""
+heroAlt: "Ancient temperate rainforest and Pacific surf break at Tofino, British Columbia, Canada"
 tagline: "Wild Pacific surf, old-growth rainforest, grey whale migration, and storm watching season on Canada's most dramatic coast"
 region: "west"
 bestMonths: ["Jun", "Jul", "Aug", "Sep"]

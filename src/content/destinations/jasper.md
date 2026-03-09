@@ -4,6 +4,7 @@ description: "Canada's largest Rocky Mountain national park — wilder and less 
 region: west
 heroVideo: ""
 heroImage: ""
+heroAlt: "Milky Way stars over Athabasca Falls in Jasper National Park, Canada"
 tagline: "Canada's largest dark sky preserve, fewer crowds than Banff, grizzly bears in the meadows, and the Icefields Parkway in both directions"
 bestMonths: ["June", "July", "August", "September", "October"]
 budgetPerDay:

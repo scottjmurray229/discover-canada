@@ -4,6 +4,7 @@ description: "Canada's capital — Parliament Hill, the world's longest skating 
 region: central
 heroVideo: ""
 heroImage: ""
+heroAlt: "Parliament Hill Gothic Revival towers and the frozen Rideau Canal, Ottawa, Canada"
 tagline: "Parliament Hill, the Rideau Canal, world-class museums free to enter, and the most civil capital city in North America"
 bestMonths: ["February", "June", "July", "August", "September"]
 budgetPerDay:

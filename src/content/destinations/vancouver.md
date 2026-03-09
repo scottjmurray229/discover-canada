@@ -4,6 +4,7 @@ description: "A Pacific metropolis where mountains meet ocean — Stanley Park, 
 region: west
 heroVideo: ""
 heroImage: ""
+heroAlt: "Stanley Park seawall with Coast Mountains and Vancouver skyline at dusk, Canada"
 tagline: "Ocean, mountains, old-growth forest, world-class sushi, and a quality of life that consistently tops global rankings"
 bestMonths: ["June", "July", "August", "September"]
 budgetPerDay:

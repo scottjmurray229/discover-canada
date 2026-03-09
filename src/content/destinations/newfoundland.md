@@ -2,6 +2,7 @@
 title: "Newfoundland"
 description: "Discover Newfoundland — Canada's most distinctive province, with Viking settlement sites, iceberg season, puffin colonies, dramatic fjords, and the friendliest people in North America."
 heroImage: ""
+heroAlt: "Iceberg drifting past the sea stacks of Newfoundland's Cape St. Mary's, Canada"
 tagline: "Icebergs in spring, puffin colonies, Viking ruins, and the warmest people in North America on Canada's most rugged coast"
 region: "east"
 bestMonths: ["Jun", "Jul", "Aug", "Sep"]

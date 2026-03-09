@@ -4,6 +4,7 @@ description: "Canada's largest city — the CN Tower, Kensington Market, world-c
 region: central
 heroVideo: ""
 heroImage: ""
+heroAlt: "CN Tower and Toronto skyline at golden hour above Lake Ontario, Canada"
 tagline: "The world in one city — 200 languages spoken, CN Tower views, diverse food halls, and Canada's most dynamic urban energy"
 bestMonths: ["June", "July", "August", "September", "October"]
 budgetPerDay:

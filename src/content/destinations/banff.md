@@ -4,6 +4,7 @@ description: "Canada's most iconic mountain town — turquoise lakes, wildlife, 
 region: west
 heroVideo: ""
 heroImage: ""
+heroAlt: "Turquoise Lake Louise reflecting Victoria Glacier and the Canadian Rockies, Banff, Canada"
 tagline: "Turquoise glacial lakes, elk on mountain roads, and the most spectacular national park scenery in the world"
 bestMonths: ["June", "July", "August", "September", "December", "January"]
 budgetPerDay:

@@ -4,6 +4,7 @@ description: "The world's top-rated ski resort with two mountains, the iconic Pe
 region: west
 heroVideo: ""
 heroImage: ""
+heroAlt: "Snow-covered Whistler Blackcomb peaks framing the alpine village below, British Columbia, Canada"
 tagline: "World's largest ski area (by skiable terrain), mountain biking in summer, and a pedestrian village that somehow avoids being terrible"
 bestMonths: ["December", "January", "February", "March", "July", "August"]
 budgetPerDay:
