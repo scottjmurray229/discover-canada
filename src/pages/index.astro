@@ -39,6 +39,8 @@ const geoMarkers: { slug: string; label: string; lat: number; lng: number }[] = 
   { slug: 'calgary', label: 'Calgary', lat: 51.0447, lng: -114.0719 },
   { slug: 'ottawa', label: 'Ottawa', lat: 45.4215, lng: -75.6972 },
   { slug: 'prince-edward-island', label: 'PEI', lat: 46.5107, lng: -63.4168 },
+  { slug: 'tofino', label: 'Tofino', lat: 49.1528, lng: -125.9066 },
+  { slug: 'newfoundland', label: 'Newfoundland', lat: 47.5615, lng: -52.7126 },
 ];
 
 // Build enriched marker data for map
@@ -52,8 +54,8 @@ const gmapMarkers = geoMarkers.map(m => {
     status: dest?.data.heroVideo ? 'Guide Available' : 'Guide Coming Soon',
   };
 });
-// Show all 12 Canada destinations
-const featuredSlugs = ['banff', 'vancouver', 'toronto', 'quebec-city', 'jasper', 'whistler', 'niagara-falls', 'victoria', 'montreal', 'calgary', 'ottawa', 'prince-edward-island'];
+// Show all 14 Canada destinations
+const featuredSlugs = ['banff', 'vancouver', 'toronto', 'quebec-city', 'jasper', 'whistler', 'niagara-falls', 'victoria', 'montreal', 'calgary', 'ottawa', 'prince-edward-island', 'tofino', 'newfoundland'];
 
 // Content pillar links
 const pillarLinks = [
@@ -82,15 +84,15 @@ import NetworkCrossLinks from '../components/NetworkCrossLinks.astro';
       playsinline
       preload="metadata"
     >
-      <source src="/videos/destinations/boracay-hero-full.mp4" type="video/mp4" />
+      <source src="/videos/destinations/canada-hero.mp4" type="video/mp4" />
     </video>
     <div class="hp-hero-gradient" />
     <div class="hp-hero-overlay" />
     <div class="hp-hero-noise" />
 
     <div class="hp-hero-content">
-      <h1 class="hp-hero-title">The Canada Through Our Eyes</h1>
-      <p class="hp-hero-subtitle">We're Scott and Jenice — an American planner and his Filipina wife from Pampanga. These are the islands we keep coming back to, the food we actually eat, and the prices we actually paid.</p>
+      <h1 class="hp-hero-title">Canada Through Our Eyes</h1>
+      <p class="hp-hero-subtitle">From Banff's turquoise lakes to Newfoundland's iceberg coast — honest travel guides with real prices, first-hand experience, and no filter.</p>
       <div class="hp-hero-actions">
         <a href="#map" class="hp-btn hp-btn--primary">Explore the Map</a>
         <a href="/plan/" class="hp-btn hp-btn--secondary">Plan Your Trip</a>
