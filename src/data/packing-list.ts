@@ -22,7 +22,7 @@ export const CANADA_CONFIG: PackingConfig = {
   currency: 'CAD',
   plugType: 'Type A/B',
   plugVoltage: '120V',
-  affiliateTag: 'discovermore-20',
+  affiliateTag: 'discoverphili-20',
   destinationEssentials: CANADA_ESSENTIALS,
   gearRecommendations: CANADA_GEAR_RECOMMENDATIONS,
 };
