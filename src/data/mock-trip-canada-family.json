@@ -1,0 +1,65 @@
+{
+  "name": "Canada Family Adventure",
+  "subtitle": "Vancouver → Banff → Toronto",
+  "dates": "Jul 5–16, 2026",
+  "days": [
+    {
+      "day": 1,
+      "date": "Sun, Jul 5",
+      "title": "Arrive Vancouver",
+      "location": "Vancouver, BC",
+      "items": [
+        {
+          "id": "d1-1",
+          "time": "2:00 PM",
+          "icon": "✈️",
+          "type": "transport",
+          "title": "Arrive Vancouver International Airport (YVR)",
+          "detail": "Canada Line SkyTrain connects airport to downtown in 26 minutes. Day pass C$11.",
+          "directions": "Take Canada Line SkyTrain to Waterfront Station (26 min). Hotel 5-min walk or short cab.",
+          "status": "confirmed",
+          "lat": 49.1947,
+          "lng": -123.1792
+        },
+        {
+          "id": "d1-2",
+          "time": "4:00 PM",
+          "icon": "🏨",
+          "type": "accommodation",
+          "title": "Check In — Downtown Vancouver Hotel",
+          "detail": "Central location near Stanley Park, Gastown, and Granville Island.",
+          "directions": "Subway: Waterfront Station (Canada Line), walk 5 min to hotel.",
+          "status": "confirmed",
+          "lat": 49.2827,
+          "lng": -123.1207
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "date": "Mon, Jul 6",
+      "title": "Stanley Park & Gastown",
+      "location": "Vancouver, BC",
+      "items": [
+        {
+          "id": "d2-1",
+          "time": "9:00 AM",
+          "icon": "🌲",
+          "type": "activity",
+          "title": "Stanley Park Seawall",
+          "detail": "Bike or walk the 10km seawall around Stanley Park. Rent bikes at the park entrance (C$8/hr).",
+          "directions": "15-min walk or 5-min cab from downtown core.",
+          "status": "confirmed",
+          "lat": 49.3017,
+          "lng": -123.1417
+        }
+      ]
+    }
+  ],
+  "budget": {
+    "total": 4200,
+    "spent": 0,
+    "currency": "CAD"
+  },
+  "notes": "Best travel months: Jun–Sep. Book Banff accommodation well in advance — fills up fast in summer."
+}
