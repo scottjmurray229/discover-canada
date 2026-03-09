@@ -4,6 +4,14 @@ description: "A Pacific metropolis where mountains meet ocean — Stanley Park, 
 region: west
 heroVideo: ""
 heroImage: ""
+aeoFacts:
+  currency: "CAD (Canadian Dollar)"
+  plugType: "A/B, 120V"
+  language: "English, French"
+  bestTime: "June to August (summer)"
+  visaInfo: "eTA or visa — varies by nationality"
+  timeZone: "UTC-3.5 to UTC-8 (6 time zones)"
+  emergencyNumber: "911"
 heroAlt: "Stanley Park seawall with Coast Mountains and Vancouver skyline at dusk, Canada"
 tagline: "Ocean, mountains, old-growth forest, world-class sushi, and a quality of life that consistently tops global rankings"
 bestMonths: ["June", "July", "August", "September"]
@@ -67,7 +75,7 @@ The view hit me as the plane banked over the Strait of Georgia — a sprawling c
 
 We arrived in June, which is when Vancouver finally earns its reputation. The months of grey drizzle give way to 25°C days, the mountains stay sharp and clear, and the entire city seems to exhale and move outside. Stanley Park fills with cyclists. Kitsilano Beach fills with bodies. The seawall fills with everyone else.
 
-## Getting Around
+## What's the Best Way to Get Around Vancouver?
 
 **SkyTrain is excellent** — three lines covering downtown, Richmond, Surrey, Burnaby, and the airport. The Canada Line from YVR to downtown takes 25 minutes. A day pass ($11.25 CAD) gets you unlimited travel. Top up a Compass Card at any station.
 
@@ -75,7 +83,7 @@ For North Vancouver and Grouse Mountain, the SeaBus ferry from Waterfront Statio
 
 Car sharing (Evo, Modo, Enterprise CarShare) works well for day trips to Whistler or the Sunshine Coast ferry.
 
-## Things to Do
+## What Are the Top Things to Do in Vancouver?
 
 **Stanley Park** — One thousand acres of towering Douglas fir and western red cedar, right on the downtown peninsula. Cycle or walk the 9km seawall (rent bikes at the park entrance). Visit Beaver Lake for herons, the rose garden for photos, and Prospect Point Lookout for views of the Lions Gate Bridge. Free entry to the park; parking and some attractions charged.
 
@@ -87,7 +95,7 @@ Car sharing (Evo, Modo, Enterprise CarShare) works well for day trips to Whistle
 
 **Grouse Mountain** — Take the gondola up (or hike the Grouse Grind — 2.9km of switchbacks called the "Mother of All Hikes") for panoramic views of the city, ocean, and islands. The mountain has grizzly bears, wolves, and in winter, skiing and ice skating.
 
-## Where to Eat
+## What Should I Eat in Vancouver?
 
 **Miku** — Flame-seared aburi sushi with views of Burrard Inlet. The salmon oshi sushi is transformative. Book well ahead. ~$80-120 CAD per person.
 
@@ -101,7 +109,7 @@ Car sharing (Evo, Modo, Enterprise CarShare) works well for day trips to Whistle
 
 **Vij's** — The legendary Indian restaurant that changed Vancouver's dining scene. No reservations — queue from 5pm. The lamb popsicles in fenugreek cream curry are the dish people travel to Vancouver for. ~$35-50 CAD mains.
 
-## Where to Stay
+## Where Should I Stay in Vancouver?
 
 **Rosewood Hotel Georgia** ($350-700 CAD/night) — The grande dame of Vancouver, restored to glorious 1920s splendour. Central location on Georgia Street, steps from everything. Service is exceptional.
 

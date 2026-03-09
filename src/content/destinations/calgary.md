@@ -4,6 +4,14 @@ description: "The gateway to the Canadian Rockies — Calgary Stampede, a vibran
 region: west
 heroVideo: ""
 heroImage: ""
+aeoFacts:
+  currency: "CAD (Canadian Dollar)"
+  plugType: "A/B, 120V"
+  language: "English, French"
+  bestTime: "June to August (summer)"
+  visaInfo: "eTA or visa — varies by nationality"
+  timeZone: "UTC-3.5 to UTC-8 (6 time zones)"
+  emergencyNumber: "911"
 heroAlt: "Calgary Stampede chuckwagon race arena with the Rockies on the horizon, Alberta, Canada"
 tagline: "Stampede in July, Bow River pathways year-round, Rocky Mountain access, and a food scene that finally matches the city's ambition"
 bestMonths: ["July", "August", "September"]
@@ -67,13 +75,13 @@ I've always thought of Calgary as the city that knows how to arrive somewhere. T
 
 The Stampede reputation can distort how people see Calgary — ten days of cowboy hats, whiskey, and rodeo every July is real and worth planning around, but it's only a fraction of what Calgary offers. The Inglewood neighbourhood has genuine character. The Studio Bell music centre is world-class. The food scene has arrived. And Banff is 90 minutes away.
 
-## Getting Around
+## What's the Best Way to Get Around Calgary?
 
 **CTrain is free in the downtown core** (the Free Ride Zone covers the 7th Avenue corridor) and extends to the airport (Red Line, $4.15 CAD). Buses cover the rest of the city.
 
 **For the Rockies:** Rent a car at the airport — Calgary has the best rental car prices in Alberta and it's the gateway to Banff (90 min), Jasper (4.5 hrs via Icefields Parkway), and Kananaskis Country. The Banff Airporter shuttle ($55 CAD one-way) runs if you prefer not to drive.
 
-## Things to Do
+## What Are the Top Things to Do in Calgary?
 
 **Calgary Stampede** (early-mid July) — "The Greatest Outdoor Show on Earth" runs 10 days each July. Grounds admission is $20 CAD; the Grandstand show (chuckwagon races at 5:45pm, evening entertainment show at 8pm) is $40-80 CAD. The morning slack rodeo is free with grounds admission. Wear a cowboy hat — this is not ironic here, it's earnest, and that's the charm.
 
@@ -85,7 +93,7 @@ The Stampede reputation can distort how people see Calgary — ten days of cowbo
 
 **Kananaskis Country** — 45 minutes southwest of Calgary, this provincial park is the Rockies without the Parks Canada crowds. Excellent hiking at Elbow Falls, Peter Lougheed Provincial Park, and the Kananaskis Village trails. Day use areas free.
 
-## Where to Eat
+## What Should I Eat in Calgary?
 
 **The Guild** — Modern Canadian in the heritage former Herald newspaper building on Stephen Ave. Wild boar, Alberta beef, stunning cocktail program. ~$45-75 CAD mains.
 
@@ -97,7 +105,7 @@ The Stampede reputation can distort how people see Calgary — ten days of cowbo
 
 **Ohne** — Small plates, natural wine, and the coolest vibe in Calgary. Japanese-influenced Canadian ingredients. ~$12-20 CAD per plate.
 
-## Where to Stay
+## Where Should I Stay in Calgary?
 
 **Hotel Arts** ($180-350 CAD/night) — Calgary's finest boutique hotel. Original contemporary art throughout, outdoor pool (heated year-round), excellent Yellow Door Bistro. The art alone justifies the stay.
 

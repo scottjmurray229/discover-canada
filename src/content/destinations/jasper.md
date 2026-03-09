@@ -4,6 +4,14 @@ description: "Canada's largest Rocky Mountain national park — wilder and less 
 region: west
 heroVideo: ""
 heroImage: ""
+aeoFacts:
+  currency: "CAD (Canadian Dollar)"
+  plugType: "A/B, 120V"
+  language: "English, French"
+  bestTime: "June to August (summer)"
+  visaInfo: "eTA or visa — varies by nationality"
+  timeZone: "UTC-3.5 to UTC-8 (6 time zones)"
+  emergencyNumber: "911"
 heroAlt: "Milky Way stars over Athabasca Falls in Jasper National Park, Canada"
 tagline: "Canada's largest dark sky preserve, fewer crowds than Banff, grizzly bears in the meadows, and the Icefields Parkway in both directions"
 bestMonths: ["June", "July", "August", "September", "October"]
@@ -67,13 +75,13 @@ The road from Banff to Jasper is one of the great drives of the world — 230 ki
 
 Jasper National Park is larger than Banff but receives fewer visitors. The town of 5,000 has a genuine community feel — more casual, less polished, more focused on the wilderness than on the experience industry. The elk walk down the main street at dusk. On clear nights, the Milky Way is a bright smear across the entire sky. This is the park that feels most like actual wilderness.
 
-## Getting Around
+## What's the Best Way to Get Around Jasper?
 
 **Car is essential** — virtually every attraction requires one. The park is enormous, and key sites (Columbia Icefield, Maligne Lake, Miette Hot Springs) are 30-80km from town. Gas up before leaving Jasper — there are no services once you're on the Parkway.
 
 **VIA Rail's Jasper service** offers the spectacular Canadian route from Vancouver through the Rockies — 18 hours of scenery if you board in Vancouver, arriving at Jasper's beautifully preserved 1925 station. Considered one of the world's great train journeys.
 
-## Things to Do
+## What Are the Top Things to Do in Jasper?
 
 **Columbia Icefield** — Located 103km south of Jasper town on the Icefields Parkway, the Columbia Icefield covers 325 square kilometres at 2,200m elevation. The Athabasca Glacier is accessible by the Ice Explorer bus ($53 CAD) — you walk on actual glacial ice and can drink meltwater directly from the surface. The Glacier Skywalk ($29.95 CAD) offers a glass-floored viewing platform over the valley below.
 
@@ -85,7 +93,7 @@ Jasper National Park is larger than Banff but receives fewer visitors. The town 
 
 **Miette Hot Springs** — 60km from Jasper town (45-min drive through Fiddle River Valley), these are the hottest natural mineral springs in the Canadian Rockies at 54°C (cooled to 40°C in pools). Adults $7.50 CAD. Open May-October.
 
-## Where to Eat
+## What Should I Eat in Jasper?
 
 **Fiddle River Restaurant** — Upstairs on Connaught Drive with mountain views. Local game, Alberta beef, wild mushrooms. The elk tenderloin is the dish to order. ~$40-60 CAD mains.
 
@@ -97,7 +105,7 @@ Jasper National Park is larger than Banff but receives fewer visitors. The town 
 
 **Jasper Brewing Company** — Canada's first national park brewery. Good craft beer, solid pub food, casual atmosphere. Great post-hike spot. ~$18-28 CAD mains.
 
-## Where to Stay
+## Where Should I Stay in Jasper?
 
 **Fairmont Jasper Park Lodge** ($350-700 CAD/night) — A lakeside resort of log cabins and lodge rooms 5km from town on Beauvert Lake. Elk wander between the buildings. Golf course, two pools, multiple restaurants. The most beautiful setting of any hotel in the Rockies.
 

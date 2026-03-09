@@ -4,6 +4,14 @@ description: "Canada's bilingual cultural capital — Old Montreal, Mount Royal,
 region: east
 heroVideo: ""
 heroImage: ""
+aeoFacts:
+  currency: "CAD (Canadian Dollar)"
+  plugType: "A/B, 120V"
+  language: "English, French"
+  bestTime: "June to August (summer)"
+  visaInfo: "eTA or visa — varies by nationality"
+  timeZone: "UTC-3.5 to UTC-8 (6 time zones)"
+  emergencyNumber: "911"
 heroAlt: "Old Montreal cobblestone streets and Notre-Dame Basilica illuminated at night, Canada"
 tagline: "Poutine, bagels, jazz festivals, underground city, the best brunch scene in North America, and an attitude that is entirely its own"
 bestMonths: ["June", "July", "August", "September", "October"]
@@ -67,7 +75,7 @@ Montreal has an energy unlike anywhere else in Canada. Walk the Plateau on a Tue
 
 Montreal is Canada's second-largest city and its most culturally distinct. The French heritage is everywhere — in the architecture, the language, the food philosophy, the relationship with pleasure and leisure. But Montreal is also deeply cosmopolitan: the McGill and Concordia universities bring in tens of thousands of English-speaking students; immigration has layered Haitian, Lebanese, Italian, and Portuguese cultures onto the French-Canadian base. The result is the most interesting food city in Canada and one of the most interesting in North America.
 
-## Getting Around
+## What's the Best Way to Get Around Montreal?
 
 **Metro is efficient** — four colour-coded lines covering most of the city. A OPUS card (reloadable) or day pass ($11.25 CAD) for unlimited travel. Trains run from 5:30am to 1am most nights.
 
@@ -75,7 +83,7 @@ Montreal is Canada's second-largest city and its most culturally distinct. The F
 
 The **Underground City (RESO)** — 33km of heated underground passages connecting 10 metro stations, 2,000 shops, hotels, cinemas, and offices — is invaluable in the Montreal winter.
 
-## Things to Do
+## What Are the Top Things to Do in Montreal?
 
 **Old Montreal (Vieux-Montreal)** — The oldest part of the city: 18th-century stone warehouses and churches along the St. Lawrence waterfront. Place Jacques-Cartier is the tourist heart (too many restaurants, fine for drinks). Rue Saint-Paul and Rue Notre-Dame have excellent galleries and independent restaurants. Notre-Dame Basilica ($15 CAD) is the most beautiful interior in Canada.
 
@@ -87,7 +95,7 @@ The **Underground City (RESO)** — 33km of heated underground passages connecti
 
 **Jean-Talon Market** — The finest public market in Canada, in the Little Italy neighbourhood. Quebec produce, cheeses from Fromagerie de l'Abbaye, pastries from Eric Borsato, maple products. Open year-round, though the outdoor pavilions are summer-only.
 
-## Where to Eat
+## What Should I Eat in Montreal?
 
 **Joe Beef** — The most famous restaurant in Canada. David McMillan and Fred Morin's ode to excess: oysters, foie gras, enormous steaks, lobster spaghetti, remarkable natural wine list. Reserve 6-8 weeks ahead. ~$100-150 CAD per person.
 
@@ -99,7 +107,7 @@ The **Underground City (RESO)** — 33km of heated underground passages connecti
 
 **Olive et Gourmando** — Old Montreal breakfast institution. Pressed sandwiches, house-made granola, exceptional pastries, serious coffee. ~$12-20 CAD. Open until 5pm, closed Mondays.
 
-## Where to Stay
+## Where Should I Stay in Montreal?
 
 **Hotel Le Crystal** ($200-400 CAD/night) — Glass-tower boutique hotel with rooftop pool in downtown Montreal. The suites have mountain views. Service is impeccable.
 

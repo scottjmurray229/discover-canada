@@ -4,6 +4,14 @@ description: "The world's top-rated ski resort with two mountains, the iconic Pe
 region: west
 heroVideo: ""
 heroImage: ""
+aeoFacts:
+  currency: "CAD (Canadian Dollar)"
+  plugType: "A/B, 120V"
+  language: "English, French"
+  bestTime: "June to August (summer)"
+  visaInfo: "eTA or visa — varies by nationality"
+  timeZone: "UTC-3.5 to UTC-8 (6 time zones)"
+  emergencyNumber: "911"
 heroAlt: "Snow-covered Whistler Blackcomb peaks framing the alpine village below, British Columbia, Canada"
 tagline: "World's largest ski area (by skiable terrain), mountain biking in summer, and a pedestrian village that somehow avoids being terrible"
 bestMonths: ["December", "January", "February", "March", "July", "August"]
@@ -67,13 +75,13 @@ There's a moment on the Peak 2 Peak Gondola when you're suspended 436 metres abo
 
 Whistler hosted the alpine skiing events for the 2010 Vancouver Olympics and built a reputation as the world's top-rated ski resort. It deserves it. But the summer Whistler — warmer, cheaper, quieter, and equally spectacular — is the version that surprises most visitors.
 
-## Getting Around
+## What's the Best Way to Get Around Whistler?
 
 **The Village is pedestrian-only** — park your car and walk everywhere. The Village Stroll connects Whistler Village, Village North, and Upper Village. Creekside (the quieter base area 3km south) is connected by the WAVE bus.
 
 The **Sea-to-Sky Highway** drive from Vancouver (2 hrs) is half the experience — pull over at Shannon Falls (64m waterfall, right beside the road), Squamish (stawamus Chief viewpoint), and Brandywine Falls Provincial Park.
 
-## Things to Do
+## What Are the Top Things to Do in Whistler?
 
 **Whistler Blackcomb Skiing** — Two peaks with 8,171 acres of skiable terrain, 200+ marked runs, and 16 alpine bowls. The Whistler Blackcomb ski pass is Ikon Pass compatible. Peak ski season runs November through April. Book lessons at the Whistler Mountain Ski School — the instruction quality is excellent.
 
@@ -85,7 +93,7 @@ The **Sea-to-Sky Highway** drive from Vancouver (2 hrs) is half the experience �
 
 **Garibaldi Provincial Park** — 30-minute drive south, this provincial park offers some of the finest backcountry hiking in British Columbia. The Garibaldi Lake trail (9km return) ends at a stunning blue-green glacial lake. Day hike in; camping requires reservation.
 
-## Where to Eat
+## What Should I Eat in Whistler?
 
 **Araxi** — Whistler's most celebrated restaurant: BC seafood, local game, exceptional wine list. The oyster bar at the bar is outstanding and more casual than the dining room. Reserve well ahead. ~$60-90 CAD mains.
 
@@ -97,7 +105,7 @@ The **Sea-to-Sky Highway** drive from Vancouver (2 hrs) is half the experience �
 
 **Splitz Grill** — Beloved local burger joint after a big ski day. Double smash burger, sweet potato fries, milkshakes. ~$15-22 CAD. No reservations.
 
-## Where to Stay
+## Where Should I Stay in Whistler?
 
 **Fairmont Chateau Whistler** ($350-900 CAD/night) — The grand chateau at the base of Blackcomb. Ski-in/ski-out in winter. Heated outdoor pool open year-round. The most complete resort hotel in Canada.
 

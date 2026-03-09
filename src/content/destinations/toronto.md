@@ -4,6 +4,14 @@ description: "Canada's largest city — the CN Tower, Kensington Market, world-c
 region: central
 heroVideo: ""
 heroImage: ""
+aeoFacts:
+  currency: "CAD (Canadian Dollar)"
+  plugType: "A/B, 120V"
+  language: "English, French"
+  bestTime: "June to August (summer)"
+  visaInfo: "eTA or visa — varies by nationality"
+  timeZone: "UTC-3.5 to UTC-8 (6 time zones)"
+  emergencyNumber: "911"
 heroAlt: "CN Tower and Toronto skyline at golden hour above Lake Ontario, Canada"
 tagline: "The world in one city — 200 languages spoken, CN Tower views, diverse food halls, and Canada's most dynamic urban energy"
 bestMonths: ["June", "July", "August", "September", "October"]
@@ -67,7 +75,7 @@ Every city has its own feel, and Toronto's is relentless, ambitious, and stagger
 
 The city doesn't have one identity; it has hundreds, layered by neighbourhood, by immigration wave, by generation. That's not a bug — it's the feature. The food alone is worth the flight.
 
-## Getting Around
+## What's the Best Way to Get Around Toronto?
 
 **TTC (Toronto Transit Commission)** runs subway, streetcar, and bus. A Presto card (tap-on, tap-off) makes it seamless. A day pass is $13.50 CAD. The subway covers most tourist areas; the King and Queen streetcars connect east-west through the most interesting neighbourhoods.
 
@@ -75,7 +83,7 @@ The city doesn't have one identity; it has hundreds, layered by neighbourhood, b
 
 **For Niagara Falls:** GO Bus from Union Station ($15 CAD, 2 hrs) or rent a car for more flexibility.
 
-## Things to Do
+## What Are the Top Things to Do in Toronto?
 
 **CN Tower** — You have to. The 553m tower dominated the skyline for decades. The glass floor at 342m is genuinely nerve-wracking. The EdgeWalk (hands-free walk outside the tower at 356m) is for those who want a story to tell. Book ahead and arrive early morning to beat tour groups.
 
@@ -89,7 +97,7 @@ The city doesn't have one identity; it has hundreds, layered by neighbourhood, b
 
 **Toronto Islands** — A 15-minute ferry from the waterfront brings you to car-free Algonquin and Ward's Islands. Rent a bike, picnic on the beach, and get the best skyline view in the city at sunset. Ferry $9.02 CAD return.
 
-## Where to Eat
+## What Should I Eat in Toronto?
 
 **Canoe** — Iconic Canadian cuisine at 54 floors up in the TD Bank Tower. Bison tartare, Ontario lamb, BC halibut — all impeccably sourced. The lunch prix-fixe is better value. ~$80-120 CAD mains at dinner.
 
@@ -103,7 +111,7 @@ The city doesn't have one identity; it has hundreds, layered by neighbourhood, b
 
 **Terroni** — The best pizza in the city. No substitutions, no splitting (it's Italian), loud and chaotic and wonderful. Multiple locations. ~$25-35 CAD per pizza.
 
-## Where to Stay
+## Where Should I Stay in Toronto?
 
 **The Hazelton Hotel** ($400-900 CAD/night) — Toronto's finest boutique hotel in the heart of Yorkville. Rooms designed by one of Canada's top interior designers. Indulge.
 

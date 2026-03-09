@@ -4,6 +4,14 @@ description: "Anne of Green Gables country — red sand beaches, lobster suppers
 region: east
 heroVideo: ""
 heroImage: ""
+aeoFacts:
+  currency: "CAD (Canadian Dollar)"
+  plugType: "A/B, 120V"
+  language: "English, French"
+  bestTime: "June to August (summer)"
+  visaInfo: "eTA or visa — varies by nationality"
+  timeZone: "UTC-3.5 to UTC-8 (6 time zones)"
+  emergencyNumber: "911"
 heroAlt: "Red cliff coastline, green fields, and lighthouse on Prince Edward Island, Canada"
 tagline: "Anne of Green Gables, the world's best lobster suppers, red sand beaches, and the gentlest province in the country"
 bestMonths: ["June", "July", "August", "September"]
@@ -69,7 +77,7 @@ PEI is Canada's smallest province — 5,660 square kilometres, just over 160,000
 
 Lucy Maud Montgomery wrote Anne of Green Gables here in 1908, and the book captured something true about the island — its beauty, its community character, its relationship with the seasons and the sea. Visitors who come for Anne often stay for the oysters.
 
-## Getting Around
+## What's the Best Way to Get Around Prince Edward Island?
 
 **Car is essential** outside Charlottetown. The island is 224km long and 64km at its widest — you'll need wheels to reach the north shore beaches, the lobster suppers, and the Green Gables site.
 
@@ -77,7 +85,7 @@ Lucy Maud Montgomery wrote Anne of Green Gables here in 1908, and the book captu
 
 **Confederation Bridge** (13km, toll paid eastbound only: $50.25 CAD per vehicle) connects Borden-Carleton to Cape Jourimain, New Brunswick — the longest bridge over ice-covered water in the world.
 
-## Things to Do
+## What Are the Top Things to Do in Prince Edward Island?
 
 **Green Gables Heritage Place** — The real farm, in Cavendish, that Lucy Maud Montgomery used as the model for the Green Gables farm in her 1908 novel. Now Parks Canada-operated, with the restored farmhouse and surrounding Haunted Wood and Balsam Hollow trails. $7.90 CAD adults. The Heritage Museum next door tells Montgomery's story.
 
@@ -89,7 +97,7 @@ Lucy Maud Montgomery wrote Anne of Green Gables here in 1908, and the book captu
 
 **Charlottetown** — The birthplace of Confederation (1864 Charlottetown Conference is where Canada was proposed). Province House is where it happened — free tours. The waterfront, Victoria Row pedestrian street, and the Confederation Centre of the Arts are the heart of the city. Very walkable, very pleasant.
 
-## Where to Eat
+## What Should I Eat in Prince Edward Island?
 
 **Inn at Bay Fortune FireWorks Dinner** — Chef Michael Smith's theatrical farm-to-table experience: open-fire cooking, island ingredients, 20+ dishes over four hours. $150 CAD per person, worth every dollar. Book 3-4 weeks ahead.
 
@@ -101,7 +109,7 @@ Lucy Maud Montgomery wrote Anne of Green Gables here in 1908, and the book captu
 
 **Malpeque Oysters** — Not a restaurant but an experience. Malpeque Bay oysters are among the world's finest — clean, briny, sweet. Buy direct from Carr's Oysters in Stanley Bridge ($12-20 CAD per dozen) and eat them on the wharf.
 
-## Where to Stay
+## Where Should I Stay in Prince Edward Island?
 
 **Inn at Bay Fortune** ($250-450 CAD/night) — Iconic PEI inn in eastern PEI, overlooking Bay Fortune estuary. Chef Michael Smith's base. FireWorks dinner, farm-fresh breakfasts, beautiful grounds. The definitive PEI accommodation.
 

@@ -4,6 +4,14 @@ description: "Canada's capital — Parliament Hill, the world's longest skating 
 region: central
 heroVideo: ""
 heroImage: ""
+aeoFacts:
+  currency: "CAD (Canadian Dollar)"
+  plugType: "A/B, 120V"
+  language: "English, French"
+  bestTime: "June to August (summer)"
+  visaInfo: "eTA or visa — varies by nationality"
+  timeZone: "UTC-3.5 to UTC-8 (6 time zones)"
+  emergencyNumber: "911"
 heroAlt: "Parliament Hill Gothic Revival towers and the frozen Rideau Canal, Ottawa, Canada"
 tagline: "Parliament Hill, the Rideau Canal, world-class museums free to enter, and the most civil capital city in North America"
 bestMonths: ["February", "June", "July", "August", "September"]
@@ -67,7 +75,7 @@ Ottawa gets underestimated, which works in your favour as a visitor. While touri
 
 The city of 1 million straddles the Ottawa River, with Gatineau, Quebec directly across the water. Parliament Hill's Gothic Revival towers and the Peace Tower are as dramatic in person as in photographs — particularly at dusk, when the stone turns gold and the limestone seems lit from within.
 
-## Getting Around
+## What's the Best Way to Get Around Ottawa?
 
 **OC Transpo** covers the city with buses and the Confederation Line LRT. A day pass ($10.50 CAD) handles most tourist movement. The central core — Parliament Hill, ByWard Market, Rideau Canal, and Centretown — is entirely walkable.
 
@@ -75,7 +83,7 @@ The city of 1 million straddles the Ottawa River, with Gatineau, Quebec directly
 
 **For Gatineau Park and the Museum of History:** Bus 8 from downtown across the Alexandra Bridge.
 
-## Things to Do
+## What Are the Top Things to Do in Ottawa?
 
 **Parliament Hill** — The Gothic Revival Centre Block (currently under long-term renovation) is surrounded by the East Block (open for tours) and West Block (current House of Commons chamber). Free guided tours run daily — book online. The Changing of the Guard ceremony on the front lawn runs daily at 10am in summer. The Peace Tower is 53m of golden limestone.
 
@@ -87,7 +95,7 @@ The city of 1 million straddles the Ottawa River, with Gatineau, Quebec directly
 
 **ByWard Market** — Ottawa's oldest neighbourhood (established 1826): outdoor produce market, independent restaurants, bakeries, and bars. The BeaverTails pastry kiosk is here. Good for breakfast, people-watching, and local food exploration.
 
-## Where to Eat
+## What Should I Eat in Ottawa?
 
 **Beckta** — The most celebrated restaurant in Ottawa. Canadian ingredients prepared with quiet excellence. The tasting menu is the city's finest dining experience. ~$80-120 CAD per person. Reserve 3-4 weeks ahead.
 
@@ -99,7 +107,7 @@ The city of 1 million straddles the Ottawa River, with Gatineau, Quebec directly
 
 **Stoby's** — ByWard Market institution. Best patio in Ottawa, solid burgers and wraps, consistently good service. ~$15-25 CAD.
 
-## Where to Stay
+## Where Should I Stay in Ottawa?
 
 **Fairmont Chateau Laurier** ($280-600 CAD/night) — The grande dame of Ottawa hotels, built in the same 1912 Gothic Revival style as Parliament Hill. Connected to the Rideau Canal locks. Spectacular pool carved from original stone. The bar and afternoon tea are excellent.
 

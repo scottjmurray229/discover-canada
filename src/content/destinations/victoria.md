@@ -4,6 +4,14 @@ description: "Butchart Gardens, afternoon tea at the Empress, whale watching in 
 region: west
 heroVideo: ""
 heroImage: ""
+aeoFacts:
+  currency: "CAD (Canadian Dollar)"
+  plugType: "A/B, 120V"
+  language: "English, French"
+  bestTime: "June to August (summer)"
+  visaInfo: "eTA or visa — varies by nationality"
+  timeZone: "UTC-3.5 to UTC-8 (6 time zones)"
+  emergencyNumber: "911"
 heroAlt: "The Empress Hotel and Inner Harbour flower baskets in Victoria, British Columbia, Canada"
 tagline: "Afternoon tea, whale watching, the Butchart Gardens, and a harbor-side city that the rest of Canada wishes it could retire to"
 bestMonths: ["May", "June", "July", "August", "September"]
@@ -67,7 +75,7 @@ Victoria surprised me. I'd expected a sleepy retiree town with colonial overtone
 
 The British overtones are real but affectionate rather than anachronistic. The Empress Hotel dominates the Inner Harbour as it has since 1908. Double-decker buses run the tourist routes. The afternoon tea culture is taken seriously. But Victoria has evolved well beyond its colonial postcard identity into something much more interesting.
 
-## Getting Around
+## What's the Best Way to Get Around Victoria?
 
 **Cycling is the best way to experience Victoria** — the city has one of Canada's most extensive urban cycling networks, and the Galloping Goose Regional Trail extends 55km from downtown to Sooke through forest and farm land. Rent from Cycle BC ($35-50 CAD/day) near the Inner Harbour.
 
@@ -75,7 +83,7 @@ The British overtones are real but affectionate rather than anachronistic. The E
 
 **For Butchart Gardens:** Drive (25 min north) or take BC Transit Route 75 (1 hour, $2.75 CAD).
 
-## Things to Do
+## What Are the Top Things to Do in Victoria?
 
 **Butchart Gardens** — The most visited attraction on Vancouver Island deserves its reputation. Fifty-five acres of themed gardens — Sunken Garden, Italian Garden, Japanese Garden, Rose Garden — created in a 100-year-old limestone quarry. The Saturday evening summer shows (fireworks, live music, illumination) are magical. Go late afternoon to experience both daylight beauty and evening illumination. $40-47 CAD adults.
 
@@ -87,7 +95,7 @@ The British overtones are real but affectionate rather than anachronistic. The E
 
 **Beacon Hill Park** — 75 hectares of ancient Garry oak meadows, duck ponds, and English-style gardens at the edge of the Inner Harbour. The 0km marker of the Trans-Canada Highway is here. Free.
 
-## Where to Eat
+## What Should I Eat in Victoria?
 
 **The Courtney Room** — Victoria's best tasting menu restaurant. Pacific Northwest ingredients prepared with precision and creativity. Halibut cheeks, Dungeness crab, Vancouver Island rabbit. Reserve weeks ahead. ~$120-180 CAD per person.
 
@@ -99,7 +107,7 @@ The British overtones are real but affectionate rather than anachronistic. The E
 
 **Fol Epi** — The city's finest bakery. Sourdough loaves, croissants, and a coffee program that takes itself seriously. Pick up a loaf for the ferry journey home. ~$6-12 CAD.
 
-## Where to Stay
+## Where Should I Stay in Victoria?
 
 **Fairmont Empress Hotel** ($300-700 CAD/night) — The defining Victoria experience. Inner Harbour views, beautiful Edwardian rooms, pool, Bengal Bar. Even the cheapest room has character.
 

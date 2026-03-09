@@ -4,6 +4,14 @@ description: "Horseshoe Falls from the Canadian side, Maid of the Mist boat tour
 region: central
 heroVideo: ""
 heroImage: ""
+aeoFacts:
+  currency: "CAD (Canadian Dollar)"
+  plugType: "A/B, 120V"
+  language: "English, French"
+  bestTime: "June to August (summer)"
+  visaInfo: "eTA or visa — varies by nationality"
+  timeZone: "UTC-3.5 to UTC-8 (6 time zones)"
+  emergencyNumber: "911"
 heroAlt: "Horseshoe Falls thundering mist and rainbow at Niagara Falls, Ontario, Canada"
 tagline: "38 million litres per second thundering over the horseshoe — louder, wetter, and more overwhelming than any photograph prepares you for"
 bestMonths: ["June", "July", "August", "September"]
@@ -67,13 +75,13 @@ The sound hits before the sight. A deep, constant roar that fills the air around
 
 Niagara Falls is one of those places where the cliche photographs do not do justice to the reality. Standing beside Horseshoe Falls, the ground vibrates underfoot. The water is moving at 168,000 cubic metres per minute, enough to fill an Olympic pool every 0.6 seconds. It is overwhelming in the best possible way.
 
-## Getting Around
+## What's the Best Way to Get Around Niagara Falls?
 
 **Wego bus** runs a hop-on/hop-off service between all the main attractions along the Niagara Parkway — $8 CAD for a day pass, well worth it. The core attractions (falls viewpoints, Maid of the Mist, Journey Behind the Falls, Table Rock) are also walkable in good weather.
 
 **For Niagara-on-the-Lake:** Rent a bike from the Niagara Parkway Cycle rental station ($20-35 CAD) and cycle the 20km parkway between the falls and NOTL — one of Ontario's best cycling routes.
 
-## Things to Do
+## What Are the Top Things to Do in Niagara Falls?
 
 **Maid of the Mist** — The iconic boat tour that departs from the base of the falls and motors into the spray at the foot of Horseshoe Falls. Blue rain ponchos provided (necessary). Open May through November. $29.35 CAD adults. No reservation needed — boats run continuously.
 
@@ -85,7 +93,7 @@ Niagara Falls is one of those places where the cliche photographs do not do just
 
 **Skylon Tower Observation Deck** — 236m above the falls for aerial perspective. The revolving restaurant at the top has views straight down into Horseshoe Falls. $18.50 CAD adults.
 
-## Where to Eat
+## What Should I Eat in Niagara Falls?
 
 **Edgewaters Tap and Grill** — Best casual dining with falls views. Fish and chips with Ontario Lake Erie perch, local craft beer, terrasse seating. ~$20-30 CAD mains.
 
@@ -97,7 +105,7 @@ Niagara Falls is one of those places where the cliche photographs do not do just
 
 **Inniskillin Winery** — Not a restaurant, but the ice wine tasting experience ($20 CAD) is extraordinary. Canada invented commercial ice wine, and Inniskillin is the pioneer. The 2022 Vidal Ice Wine is exceptional.
 
-## Where to Stay
+## Where Should I Stay in Niagara Falls?
 
 **Sheraton Fallsview Hotel** ($200-450 CAD/night) — Falls-view rooms face Horseshoe Falls directly. Book a Fallsview room and it's worth every dollar — watching the illumination show from your bed is something you'll remember.
 

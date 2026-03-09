@@ -4,6 +4,14 @@ description: "Canada's most iconic mountain town — turquoise lakes, wildlife, 
 region: west
 heroVideo: ""
 heroImage: ""
+aeoFacts:
+  currency: "CAD (Canadian Dollar)"
+  plugType: "A/B, 120V"
+  language: "English, French"
+  bestTime: "June to August (summer)"
+  visaInfo: "eTA or visa — varies by nationality"
+  timeZone: "UTC-3.5 to UTC-8 (6 time zones)"
+  emergencyNumber: "911"
 heroAlt: "Turquoise Lake Louise reflecting Victoria Glacier and the Canadian Rockies, Banff, Canada"
 tagline: "Turquoise glacial lakes, elk on mountain roads, and the most spectacular national park scenery in the world"
 bestMonths: ["June", "July", "August", "September", "December", "January"]
@@ -67,13 +75,13 @@ I drove into Banff at sunrise, the mountains turning pink and gold above the Bow
 
 Banff is Canada's first national park (est. 1885) and still its most visited. The town of 8,000 swells to 4 million visitors annually, but step 10 minutes down any trail and you'll have the wilderness to yourself. That's the Banff trick: embrace the popular spots early morning or late evening, then escape into the backcountry.
 
-## Getting Around
+## What's the Best Way to Get Around Banff?
 
 **Car is king** — most of the iconic spots are 20-45 minutes from town and inaccessible by public transport. Rent in Calgary (cheaper) and drive the Trans-Canada in. In summer, Roam Transit runs buses to Lake Louise and Moraine Lake (book tickets online — parking at Moraine Lake requires a shuttle or bike).
 
 **Moraine Lake road opens** mid-June and closes mid-October. Miss this window and you'll only see it through a fence.
 
-## Things to Do
+## What Are the Top Things to Do in Banff?
 
 **Lake Louise and Moraine Lake** — Go to Moraine Lake first (opens 6am), beat the Instagram crowds. The Valley of Ten Peaks reflection is exactly as beautiful as you've heard. Lake Louise gets the afternoon light — kayak or canoe on the turquoise water with the Victoria Glacier looming behind.
 
@@ -85,7 +93,7 @@ Banff is Canada's first national park (est. 1885) and still its most visited. Th
 
 **Wildlife Spotting** — Bears, elk, bighorn sheep, and moose are genuinely wild and frequently seen. Keep distance (100m from bears), never feed, drive slowly. Dawn and dusk are best.
 
-## Where to Eat
+## What Should I Eat in Banff?
 
 **Tooloulou's** — Breakfast institution. Eggs benedict with wild salmon, avocado BLT on fresh-baked bread. Queue expected on weekends but moves fast. ~$20 CAD.
 
@@ -97,7 +105,7 @@ Banff is Canada's first national park (est. 1885) and still its most visited. Th
 
 **Banff Farmers Market** — Summer Thursdays. Local honey, Alberta cheese, fresh baked goods. Grab breakfast and eat by the Bow River.
 
-## Where to Stay
+## Where Should I Stay in Banff?
 
 **Fairmont Banff Springs** ($400-800 CAD/night) — The iconic castle hotel. Book a Rockies-view room. Enormous property — spa, pools, multiple restaurants. A genuine bucket-list stay.
 

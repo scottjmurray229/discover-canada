@@ -4,6 +4,14 @@ description: "North America's only walled city north of Mexico — UNESCO-listed
 region: east
 heroVideo: ""
 heroImage: ""
+aeoFacts:
+  currency: "CAD (Canadian Dollar)"
+  plugType: "A/B, 120V"
+  language: "English, French"
+  bestTime: "June to August (summer)"
+  visaInfo: "eTA or visa — varies by nationality"
+  timeZone: "UTC-3.5 to UTC-8 (6 time zones)"
+  emergencyNumber: "911"
 heroAlt: "Château Frontenac castle dominating the snow-dusted Old Quebec skyline, Canada"
 tagline: "North America's only walled city north of Mexico — cobblestone Vieux-Québec, Château Frontenac, and a French soul that has survived 400 years"
 bestMonths: ["February", "June", "July", "August", "December"]
@@ -67,13 +75,13 @@ I arrived in February, in the dead of a Quebec winter, which turned out to be th
 
 But the city earns its magic in every season. In summer, the terrasses fill with locals lingering over wine. In fall, the leaves turn gold along the ramparts. In spring, the calèche horses return to the cobblestones. This is the most European city in North America, and it makes no apologies for it.
 
-## Getting Around
+## What's the Best Way to Get Around Quebec City?
 
 **Old Quebec is entirely walkable** — in fact, it's the only way to experience it properly. Upper Town (Haute-Ville) sits on the cliff above the St. Lawrence; Lower Town (Basse-Ville) clusters around the old port below. The funicular connects them ($4 CAD), or you descend the famous Breakneck Stairs (Escalier Casse-Cou) — 17th-century steps, still dramatic.
 
 The historic core is compact enough to walk everywhere. A rental car helps for Montmorency Falls (15 min east) and the Ile d'Orleans (half-day loop), but isn't needed for the city itself.
 
-## Things to Do
+## What Are the Top Things to Do in Quebec City?
 
 **Wander Old Quebec** — Both halves are UNESCO-protected and both reward aimless wandering. Upper Town has the Chateau, the ramparts (4.6km of walkable fortification walls), Parliament Hill, and the Citadelle (changing of the guard daily in summer at 10am). Lower Town has Place Royale (the birthplace of New France), the antique port, and Petit-Champlain.
 
@@ -85,7 +93,7 @@ The historic core is compact enough to walk everywhere. A rental car helps for M
 
 **Montmorency Falls** — 15 minutes by car or bus from Old Quebec: an 83m waterfall (higher than Niagara Falls, if narrower). In winter the spray forms a massive ice cone called "pain de sucre" (sugar loaf). Cable car or stairs to the top. ~$18 CAD cable car.
 
-## Where to Eat
+## What Should I Eat in Quebec City?
 
 **Le Saint-Amour** — The most celebrated restaurant in Quebec City. Canadian French cuisine at its finest: game, foie gras, brilliant desserts. Book well ahead. ~$80-120 CAD per person.
 
@@ -97,7 +105,7 @@ The historic core is compact enough to walk everywhere. A rental car helps for M
 
 **Marche du Vieux-Port** — The Old Port market for local Quebec products: maple syrup, artisan cheeses, smoked meat, fresh produce. Open year-round. Perfect for picnic supplies.
 
-## Where to Stay
+## Where Should I Stay in Quebec City?
 
 **Fairmont Le Chateau Frontenac** ($350-800 CAD/night) — The most photographed hotel in the world. Every room is beautiful; river-view rooms justify the premium. The champagne bar on the terrace at sunset is something else.
 
