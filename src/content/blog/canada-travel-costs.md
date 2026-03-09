@@ -2,6 +2,7 @@
 title: "How Much Does a Trip to Canada Cost? Honest Budget Breakdown for 2026"
 description: "Budget, mid-range, and luxury travel costs across Canada — accommodation, food, transport, and activities with real prices and money-saving tips."
 pubDate: 2026-02-01
+dateModified: 2026-03-08
 author: "Scott"
 tags: ["budget", "planning", "travel tips", "costs"]
 category: "budget"

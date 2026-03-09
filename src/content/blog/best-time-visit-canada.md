@@ -2,6 +2,7 @@
 title: "Best Time to Visit Canada: Month-by-Month Travel Guide"
 description: "From Aurora-watching in winter to peak summer hiking — when to go to Canada depending on what you want to experience."
 pubDate: 2026-01-15
+dateModified: 2026-03-08
 author: "Scott"
 tags: ["planning", "seasons", "travel tips"]
 category: "practical"

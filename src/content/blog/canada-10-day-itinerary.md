@@ -2,6 +2,7 @@
 title: "The Perfect 10 Days in Canada: Vancouver to Toronto via the Rockies"
 description: "The ultimate Canadian road trip itinerary — 10 days covering Vancouver, Whistler, Banff, Jasper, Calgary, and Toronto. Flights, costs, and daily schedules included."
 pubDate: 2026-01-20
+dateModified: 2026-03-08
 author: "Scott"
 tags: ["itinerary", "road trip", "planning", "budget"]
 category: "practical"
