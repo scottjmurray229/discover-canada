@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://discoveringcanada.info/sitemap-index.xml
+Sitemap: https://discoveringcanada.info/video-sitemap.xml
