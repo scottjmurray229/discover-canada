@@ -69,62 +69,110 @@ contentStatus: "published"
 draft: false
 ---
 
-## Jasper: The Wilder Side of the Canadian Rockies
+The Icefields Parkway north from Lake Louise passes through some of the most extraordinary mountain scenery on Earth before arriving at Jasper — a quieter, larger, wilder national park that most Banff visitors skip for lack of time. That's their loss. Jasper National Park covers 10,878 square kilometres of the Canadian Rockies, more than any other Rocky Mountain park, and it has the Columbia Icefield at its southern entrance, Maligne Lake with Spirit Island in the northeast, Athabasca Falls in the south, and the world's largest accessible dark sky preserve overhead at night.
 
-The road from Banff to Jasper is one of the great drives of the world — 230 kilometres of continuous spectacle, with glaciers spilling from every mountain and turquoise lakes reflecting peaks so sharp they look impossible. By the time you reach Jasper town, you feel like you've earned something.
+I drove the Icefields Parkway from Lake Louise to Jasper on an October day that had just enough cloud to dramatize the mountains without blocking the views. Peyto Lake from the overlook was turquoise in a way that Banff's lakes couldn't top. The Athabasca Glacier was vast and grey and visibly retreating, with stakes marking where its edge stood in 1990, in 2000, in 2010. The Columbia Icefield Discovery Centre sits right on the highway — you can pull in, look up, and be face to face with a river of ice that has been flowing for millennia.
 
-Jasper National Park is larger than Banff but receives fewer visitors. The town of 5,000 has a genuine community feel — more casual, less polished, more focused on the wilderness than on the experience industry. The elk walk down the main street at dusk. On clear nights, the Milky Way is a bright smear across the entire sky. This is the park that feels most like actual wilderness.
+Jasper town is smaller and less polished than Banff — restaurants close earlier, the nightlife is quieter, and the elk that wander the streets seem completely unbothered by the human presence around them. One evening I watched a bull elk with a full rack walk down the main street past the restaurants while diners watched from the patios with phones raised. The elk didn't accelerate.
 
-## What's the Best Way to Get Around Jasper?
+<div class="immersive-break-inline" id="arrival">
+  <div class="ib-gradient" style="background: linear-gradient(160deg, #1E1B4B 0%, #312E81 35%, #4F46E5 65%, #1E1B4B 100%);"></div>
+  <div class="ib-content">
+    <h2 class="ib-title">Wilder Than Banff</h2>
+    <p class="ib-text">Canada's largest Rocky Mountain national park. The Columbia Icefield. Maligne Lake and Spirit Island. Grizzly bears in the meadows above the treeline. And after dark, the most accessible dark sky preserve in the world.</p>
+  </div>
+</div>
 
-**Car is essential** — virtually every attraction requires one. The park is enormous, and key sites (Columbia Icefield, Maligne Lake, Miette Hot Springs) are 30-80km from town. Gas up before leaving Jasper — there are no services once you're on the Parkway.
+## Why Jasper should be on your Canada itinerary
 
-**VIA Rail's Jasper service** offers the spectacular Canadian route from Vancouver through the Rockies — 18 hours of scenery if you board in Vancouver, arriving at Jasper's beautifully preserved 1925 station. Considered one of the world's great train journeys.
+Jasper provides everything Banff delivers and adds what Banff lacks: lower crowds, a wilder character, and the Columbia Icefield right at the park's southern entrance. For those who have already done Banff, Jasper offers a genuinely different experience. For first-timers, a Banff-plus-Jasper itinerary combined with the Icefields Parkway drive is the ideal Canadian Rockies trip.
 
-## What Are the Top Things to Do in Jasper?
+The dark sky designation is one of the largest areas of protected dark sky in the world. On a clear night 15 minutes from town, the Milky Way is visible with the naked eye — a density of stars that most North Americans have never seen. The Northern Lights appear from October through March during active solar periods. Several outfitters in Jasper offer Northern Lights tours with photography assistance.
 
-**Columbia Icefield** — Located 103km south of Jasper town on the Icefields Parkway, the Columbia Icefield covers 325 square kilometres at 2,200m elevation. The Athabasca Glacier is accessible by the Ice Explorer bus ($53 CAD) — you walk on actual glacial ice and can drink meltwater directly from the surface. The Glacier Skywalk ($29.95 CAD) offers a glass-floored viewing platform over the valley below.
+Wildlife density in Jasper is notably higher than Banff. Grizzly bears and black bears are regularly seen in the valleys and meadows above the treeline. Elk are effectively urban animals in Jasper town. Woodland caribou, mountain goats, bighorn sheep, and moose round out an extraordinary wildlife viewing environment.
 
-**Maligne Lake** — 48km from town, the largest lake in the Canadian Rockies (22km long). The iconic Spirit Island image — tiny pine-covered island in turquoise water — is only accessible by boat. Maligne Lake Boat Tours runs cruises to Spirit Island for $75 CAD. Book weeks ahead in summer.
+<div class="immersive-break-inline" id="explore">
+  <div class="ib-gradient" style="background: linear-gradient(160deg, #0C4A6E 0%, #0369A1 35%, #38BDF8 65%, #0C4A6E 100%);"></div>
+  <div class="ib-content">
+    <h2 class="ib-title">What To Explore</h2>
+    <p class="ib-text">Walk on the Athabasca Glacier. Cruise to Spirit Island on Maligne Lake. Watch Athabasca Falls thundering through a narrow gorge. And at night, step outside town and look up.</p>
+  </div>
+</div>
 
-**Jasper Dark Sky Preserve** — Established in 2011, this is the world's largest accessible dark sky preserve at 11,000 sq km. From October to March, drive 10 minutes from town and stars emerge in their billions. The Milky Way is visible to the naked eye on moonless nights. Parks Canada runs Dark Sky Festival events each October.
+## What should you do in Jasper?
 
-**Athabasca Falls** — Located 30km south of town, these falls are the most powerful in the Canadian Rockies despite not being the highest. The gorge it has carved through quartzite is spectacular. Free; short walking trails around the falls.
+**Columbia Icefield and Athabasca Glacier** — The Icefields Discovery Centre on the Icefields Parkway is the access point. The Ice Explorer glacier tour takes you onto the Athabasca Glacier's surface in a specialized all-terrain vehicle ($53 CAD/adult). The Glacier Skywalk — a glass-floored walkway cantilevered over the valley ($29.95 CAD) — is genuinely thrilling. The glacier itself is visibly retreating; interpretive signs mark its historical positions.
 
-**Miette Hot Springs** — 60km from Jasper town (45-min drive through Fiddle River Valley), these are the hottest natural mineral springs in the Canadian Rockies at 54°C (cooled to 40°C in pools). Adults $7.50 CAD. Open May-October.
+**Maligne Lake and Spirit Island** — The lake is 48km southeast of Jasper town. Spirit Island — the small forested island in the turquoise lake framed by mountain peaks — is the most photographed image in the Canadian Rockies. The only way to reach it is the Spirit Island Cruise ($75 CAD, 90 minutes round trip). Book weeks ahead in summer. The cruise also reveals wildlife on the lake shores.
 
-## What Should I Eat in Jasper?
+**Athabasca Falls** — 30km south of Jasper on the Icefields Parkway. Not the tallest waterfall in the Rockies, but the most powerful — the Athabasca River forces through a narrow quartzite gorge and explodes into a thundering chasm. The boardwalk and viewing platforms are free. A 10-minute stop that is genuinely impressive.
 
-**Fiddle River Restaurant** — Upstairs on Connaught Drive with mountain views. Local game, Alberta beef, wild mushrooms. The elk tenderloin is the dish to order. ~$40-60 CAD mains.
+**Miette Hot Springs** — The hottest natural mineral springs in the Canadian Rockies, 61km northeast of Jasper town (paved road). The outdoor pools are maintained at 38–40°C. $8.30 CAD adult entry. A remote and relaxing experience that Banff's hot springs can't match for solitude.
 
-**Evil Dave's Grill** — The funkiest restaurant in Jasper. Eccentric decor, serious food — wild boar, bison, duck. Great cocktails. Book ahead. ~$35-50 CAD mains.
+**Old Fort Point Trail** — A 4km loop from town with excellent views over the Athabasca River Valley and the town of Jasper. Accessible without a car. One of the best short hikes in the park for mountain perspective.
 
-**Bear's Paw Bakery** — Breakfast institution. Fresh-baked cinnamon buns the size of your head, enormous muffins, good coffee. Queue before 9am. ~$8-15 CAD.
+**Dark Sky Stargazing** — Drive 10–15 minutes from town toward the Maligne Lake Road or Pyramid Lake Road on a clear night. The absence of light pollution makes the Milky Way visible and photographable. October through March for the best Northern Lights probability.
 
-**Patricia Street Deli** — For picnic supplies: good sandwiches, local cheese, charcuterie. Perfect before a long trail day. ~$12-18 CAD.
+<div class="scott-tips">
+  <div class="scott-tips-header">&#9992;&#65039; Scott's Jasper Tips</div>
+  <ul>
+    <li><strong>Getting There:</strong> Fly to Calgary (YYC) and drive 4.5 hours via the Icefields Parkway — this IS the drive to Jasper. Alternatively fly to Edmonton (YEG) and drive 4 hours west. VIA Rail's Jasper train from Edmonton is a scenic alternative (4.5 hrs, $80–150 CAD).</li>
+    <li><strong>Best Time:</strong> June through September for hiking and lake access. October for fall colours and Northern Lights season beginning. January–February for winter wildlife and dark sky viewing with fewer tourists than summer.</li>
+    <li><strong>Money:</strong> Parks Canada entry $10.50 CAD/person (buy online). Glacier tour $53 CAD. Spirit Island cruise $75 CAD. Mid-range accommodation $150–200 CAD/night. Daily budget $150–250 CAD/day mid-range.</li>
+    <li><strong>Don't Miss:</strong> Spirit Island at dawn if you can get on the earliest cruise. The light on the lake and peaks in the early morning, with the mist rising off the turquoise water and the island perfectly reflected, is one of the most beautiful natural scenes in Canada.</li>
+    <li><strong>Avoid:</strong> Driving the Icefields Parkway in winter without checking road conditions. The highway closes for sections during heavy snowfall and avalanche risk. In summer, watch for wildlife on the road — bears and elk regularly cross.</li>
+    <li><strong>Local Tip:</strong> The Fairmont Jasper Park Lodge is 5km from town on Lac Beauvert. Even if you're not staying, a dinner reservation at the Moose's Nook restaurant is worth it for the setting — elk wander the lake shore outside the dining room windows in the evening. Book ahead.</li>
+  </ul>
+</div>
 
-**Jasper Brewing Company** — Canada's first national park brewery. Good craft beer, solid pub food, casual atmosphere. Great post-hike spot. ~$18-28 CAD mains.
+<div class="immersive-break-inline" id="food">
+  <div class="ib-gradient" style="background: linear-gradient(160deg, #14532D 0%, #15803D 35%, #4ADE80 65%, #14532D 100%);"></div>
+  <div class="ib-content">
+    <h2 class="ib-title">The Food</h2>
+    <p class="ib-text">Jasper's restaurant scene is smaller than Banff's but the best spots are genuinely good. Alberta beef and Canadian whisky feature prominently — as they should in the Rockies.</p>
+  </div>
+</div>
 
-## Where Should I Stay in Jasper?
+## Where should you eat in Jasper?
 
-**Fairmont Jasper Park Lodge** ($350-700 CAD/night) — A lakeside resort of log cabins and lodge rooms 5km from town on Beauvert Lake. Elk wander between the buildings. Golf course, two pools, multiple restaurants. The most beautiful setting of any hotel in the Rockies.
+- **Fiddle River Seafood Restaurant** — The best dinner in Jasper, in a log cabin building above Connaught Drive. Wild salmon, trout, and Alberta beef with excellent desserts. $30–55 CAD.
+- **The Jasper Brewing Company** — Jasper's craft brewery with pub food and locally brewed ales. The elk burger is a menu standout. $18–28 CAD.
+- **Evil Dave's Grill** — A Jasper institution with eclectic, creative food and a relaxed atmosphere. The bison dishes are excellent. $25–45 CAD.
+- **Kimchi Restaurant** — Korean food in the Rockies. The bibimbap and Korean fried chicken are notably good. $16–24 CAD.
+- **Sunhouse Café** — The best breakfast in Jasper. Eggs benedicts, granola bowls, and excellent coffee. $12–18 CAD.
 
-**Chateau Jasper** ($180-320 CAD/night) — Solid mid-range choice in town. Full service hotel, indoor pool, walking distance to restaurants. Good value for the Rockies.
+<div class="immersive-break-inline" id="stay">
+  <div class="ib-gradient" style="background: linear-gradient(160deg, #1E1B4B 0%, #1E3A5F 35%, #60A5FA 65%, #1E1B4B 100%);"></div>
+  <div class="ib-content">
+    <h2 class="ib-title">Where to Stay</h2>
+    <p class="ib-text">The Fairmont Jasper Park Lodge is the landmark option. Jasper town has mid-range hotels and the excellent HI hostel for budget travelers. Camping options throughout the park for those with the gear.</p>
+  </div>
+</div>
 
-**HI Jasper** ($35-75 CAD/night) — Parks Canada-operated hostel 3km from town. Clean, well-organized, excellent base for hikers. Book months ahead in summer.
+## Where should you stay in Jasper?
 
-## Scott's Pro Tips
+**Fairmont Jasper Park Lodge** ($350–700 CAD/night) — A sprawling log-cabin resort on Lac Beauvert, 5km from town. Golf course, spa, elk on the grounds, and a setting that is arguably more beautiful than the Banff Springs. The most stunning hotel setting in the Rockies.
 
-**Logistics:** Gas up before leaving Jasper — there are no services on the Icefields Parkway until Lake Louise. Cell coverage is non-existent between towns. Download offline maps. Parks Canada pass required ($10.50 CAD/day or $75.25 CAD/year).
+**Pyramid Lake Resort** ($200–400 CAD/night) — On Pyramid Lake 7km north of town with canoes, kayaks, and mountain views. A quieter and more nature-focused alternative to the Fairmont.
 
-**Best Time:** July and August for accessible trails and guaranteed warm weather. October for dark sky stargazing and elk rut (bulls bugling is extraordinary). Shoulder seasons (June, September) for fewer crowds.
+**Jasper Inn & Suites** ($150–280 CAD/night) — A solid mid-range property in town with an indoor pool, good rooms, and a location that works for both restaurant access and trailhead drives.
 
-**Getting Around:** Rent in Calgary or Edmonton — cheaper than Jasper. A four-wheel drive is helpful for some backcountry roads but not essential for main attractions.
+**HI Jasper** ($35–75 CAD/dorm) — The hostel 3km from town on the Whistlers road. Clean, well-run, with good facilities for hikers. Book months ahead in summer.
 
-**Money and ATMs:** Jasper has ATMs in town but limited options. Carry cash for smaller vendors. Credit cards accepted at most restaurants and hotels.
+<div class="immersive-break-inline" id="essentials">
+  <div class="ib-gradient" style="background: linear-gradient(160deg, #1E1B4B 0%, #312E81 35%, #4F46E5 65%, #1E1B4B 100%);"></div>
+  <div class="ib-content">
+    <h2 class="ib-title">Before You Go</h2>
+    <p class="ib-text">Book the Spirit Island cruise well ahead for summer visits. Download offline maps for the Parkway. Check road conditions if visiting October–May. And plan to spend at least one night — the dark sky alone justifies a second night in Jasper.</p>
+  </div>
+</div>
 
-**Safety and Health:** Bear and wildlife encounters are frequent. Carry bear spray (mandatory for backcountry) and follow Parks Canada wildlife safety guidelines. The nearest hospital is in Hinton (78km east). Emergency: 911.
+## When is the best time to visit Jasper?
 
-**Packing:** Similar to Banff — layers, rain gear, good boots. In winter: serious cold-weather equipment. Bear spray ($10/day rental at outdoor stores in town). Headlamp for dark sky stargazing.
+**June through September** — Prime season for all activities. Maligne Lake cruise, Athabasca Glacier tour, hiking, and wildlife viewing all operate in full summer mode. July is busiest; late August and September have better conditions and smaller crowds.
 
-**Local Culture:** Jasper town has a genuine local community — treat it as such. The national park exists because of conservation efforts. Leave No Trace. Respect wildlife distance rules (100m from bears and wolves, 30m from other wildlife).
+**October through November** — Fall colours in the valleys, beginning of Northern Lights season, and significantly fewer visitors. Miette Hot Springs in fall is especially good — fewer crowds and the mountain views in autumn light are extraordinary.
+
+**December through March** — Northern Lights season and winter wildlife viewing. The park is quiet; accommodation is less expensive. Cross-country skiing and snowshoeing available throughout the park.
+
+Jasper connects naturally with the Icefields Parkway drive from Banff — the 230km highway is one of Canada's greatest drives and Jasper is the endpoint. See the [full Canada destinations guide](/destinations/) for Rockies itinerary planning.
