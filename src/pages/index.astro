@@ -551,15 +551,12 @@ import NetworkCrossLinks from '../components/NetworkCrossLinks.astro';
       allMarkers.push(marker);
     });
 
-    // Palawan slugs (region=luzon in data but shown in Palawan card)
-    var palawanSlugs = ['el-nido', 'coron', 'cuyo', 'puerto-princesa'];
-
     // Region card interaction
     var regionBounds = {
-      luzon: [[13, 119.5], [21, 126]],
-      visayas: [[9, 121], [12.5, 126]],
-      palawan: [[8.5, 117.5], [13, 121.5]],
-      mindanao: [[5.5, 120], [10.5, 127]],
+      west: [[48, -139], [60, -115]],
+      central: [[43, -80], [50, -70]],
+      east: [[44, -67], [48, -60]],
+      north: [[55, -130], [70, -90]],
     };
 
     function resetMarkers() {
@@ -578,9 +575,7 @@ import NetworkCrossLinks from '../components/NetworkCrossLinks.astro';
       card.addEventListener('mouseenter', function() {
         var r = card.dataset.region || '';
         allMarkers.forEach(function(mk) {
-          var inRegion = (r === 'palawan')
-            ? palawanSlugs.indexOf(mk._slug) !== -1
-            : mk._region === r;
+          var inRegion = mk._region === r;
           if (inRegion) {
             mk.setIcon(makeCircle(
               mk._data.hasVideo ? '#E8654A' : '#ffffff',

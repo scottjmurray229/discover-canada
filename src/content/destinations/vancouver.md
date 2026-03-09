@@ -4,7 +4,7 @@ description: "A Pacific metropolis where mountains meet ocean — Stanley Park, 
 region: west
 heroVideo: ""
 heroImage: ""
-tagline: "Mountains, ocean, and everything between"
+tagline: "Ocean, mountains, old-growth forest, world-class sushi, and a quality of life that consistently tops global rankings"
 bestMonths: ["June", "July", "August", "September"]
 budgetPerDay:
   backpacker: 90

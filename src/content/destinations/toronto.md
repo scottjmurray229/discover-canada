@@ -4,7 +4,7 @@ description: "Canada's largest city — the CN Tower, Kensington Market, world-c
 region: central
 heroVideo: ""
 heroImage: ""
-tagline: "The city the world calls home"
+tagline: "The world in one city — 200 languages spoken, CN Tower views, diverse food halls, and Canada's most dynamic urban energy"
 bestMonths: ["June", "July", "August", "September", "October"]
 budgetPerDay:
   backpacker: 85

@@ -4,7 +4,7 @@ description: "Canada's capital — Parliament Hill, the world's longest skating 
 region: central
 heroVideo: ""
 heroImage: ""
-tagline: "Where history happens every day"
+tagline: "Parliament Hill, the Rideau Canal, world-class museums free to enter, and the most civil capital city in North America"
 bestMonths: ["February", "June", "July", "August", "September"]
 budgetPerDay:
   backpacker: 70

@@ -4,7 +4,7 @@ description: "Canada's bilingual cultural capital — Old Montreal, Mount Royal,
 region: east
 heroVideo: ""
 heroImage: ""
-tagline: "Where French flair meets Canadian soul"
+tagline: "Poutine, bagels, jazz festivals, underground city, the best brunch scene in North America, and an attitude that is entirely its own"
 bestMonths: ["June", "July", "August", "September", "October"]
 budgetPerDay:
   backpacker: 75

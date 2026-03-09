@@ -4,7 +4,7 @@ description: "The world's top-rated ski resort with two mountains, the iconic Pe
 region: west
 heroVideo: ""
 heroImage: ""
-tagline: "Two mountains, one perfect village"
+tagline: "World's largest ski area (by skiable terrain), mountain biking in summer, and a pedestrian village that somehow avoids being terrible"
 bestMonths: ["December", "January", "February", "March", "July", "August"]
 budgetPerDay:
   backpacker: 100

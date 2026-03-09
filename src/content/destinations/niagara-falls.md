@@ -4,7 +4,7 @@ description: "Horseshoe Falls from the Canadian side, Maid of the Mist boat tour
 region: central
 heroVideo: ""
 heroImage: ""
-tagline: "Nature's most dramatic curtain call"
+tagline: "38 million litres per second thundering over the horseshoe — louder, wetter, and more overwhelming than any photograph prepares you for"
 bestMonths: ["June", "July", "August", "September"]
 budgetPerDay:
   backpacker: 70

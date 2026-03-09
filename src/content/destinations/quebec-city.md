@@ -4,7 +4,7 @@ description: "North America's only walled city north of Mexico — UNESCO-listed
 region: east
 heroVideo: ""
 heroImage: ""
-tagline: "Europe in the heart of North America"
+tagline: "North America's only walled city north of Mexico — cobblestone Vieux-Québec, Château Frontenac, and a French soul that has survived 400 years"
 bestMonths: ["February", "June", "July", "August", "December"]
 budgetPerDay:
   backpacker: 75

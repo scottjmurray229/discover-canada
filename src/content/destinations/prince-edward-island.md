@@ -4,7 +4,7 @@ description: "Anne of Green Gables country — red sand beaches, lobster suppers
 region: east
 heroVideo: ""
 heroImage: ""
-tagline: "Red roads, green fields, blue sea"
+tagline: "Anne of Green Gables, the world's best lobster suppers, red sand beaches, and the gentlest province in the country"
 bestMonths: ["June", "July", "August", "September"]
 budgetPerDay:
   backpacker: 65

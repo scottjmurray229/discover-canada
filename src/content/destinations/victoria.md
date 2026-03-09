@@ -4,7 +4,7 @@ description: "Butchart Gardens, afternoon tea at the Empress, whale watching in 
 region: west
 heroVideo: ""
 heroImage: ""
-tagline: "A little bit of Britain on the Pacific"
+tagline: "Afternoon tea, whale watching, the Butchart Gardens, and a harbor-side city that the rest of Canada wishes it could retire to"
 bestMonths: ["May", "June", "July", "August", "September"]
 budgetPerDay:
   backpacker: 80

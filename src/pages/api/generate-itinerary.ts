@@ -343,7 +343,7 @@ RESPONSE FORMAT — Return ONLY valid JSON matching this schema:
           "category": "transport|accommodation|activity|food|ferry",
           "affiliateType": "hotel|tour|transport|null",
           "affiliateSlotId": "string_or_null",
-          "locationName": "string — specific place name for map pin, e.g. 'Nacpan Beach', 'Kawasan Falls', 'Cebu IT Park'. Use real, specific place names."
+          "locationName": "string — specific place name for map pin, e.g. 'Banff Gondola', 'CN Tower', 'Old Port Montreal'. Use real, specific place names."
         }
       ]
     }
