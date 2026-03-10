@@ -61,5 +61,12 @@
     "spent": 0,
     "currency": "CAD"
   },
-  "notes": "Best travel months: Jun–Sep. Book Banff accommodation well in advance — fills up fast in summer."
+  "notes": "Best travel months: Jun–Sep. Book Banff accommodation well in advance — fills up fast in summer.",
+  "group": [
+    { "id": "scott", "name": "Scott", "avatar": "🧑", "color": "#064E56" },
+    { "id": "jenice", "name": "Jenice", "avatar": "👩", "color": "#0891B2" }
+  ],
+  "notifications": [],
+  "weather": [],
+  "contacts": []
 }

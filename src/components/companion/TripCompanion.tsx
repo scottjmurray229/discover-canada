@@ -35,7 +35,7 @@ export default function TripCompanion() {
   const [changeLog, setChangeLog] = useState<ChangeLogEntry[]>(() => loadTripData().changeLog || []);
   const [nextChangeId, setNextChangeId] = useState(100);
 
-  const unreadCount = tripData.notifications.filter((n) => !n.read).length;
+  const unreadCount = (tripData.notifications || []).filter((n) => !n.read).length;
 
   // Persist trip data to localStorage on every mutation
   useEffect(() => {
@@ -161,7 +161,7 @@ export default function TripCompanion() {
           </div>
           {/* Group avatars */}
           <div style={{ display: 'flex' }}>
-            {tripData.group.map((m, i) => (
+            {(tripData.group || []).map((m, i) => (
               <div key={m.id} style={{
                 width: 28, height: 28, borderRadius: 14,
                 background: `${m.color}40`, border: '2px solid rgba(255,255,255,0.4)',
