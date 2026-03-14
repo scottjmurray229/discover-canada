@@ -5,6 +5,26 @@ export const CANADA_ESSENTIALS: PackingItem[] = [
   { id: 'ca-layers', name: 'Layering System', category: 'destination', description: 'Canada\'s weather varies wildly by region and season. Vancouver is mild and rainy; Banff can snow in July; Toronto gets humid summers and brutal winters. Layers work everywhere.', essential: true, climate: ['cold', 'temperate'], amazonSearchFallback: 'packable+down+jacket+travel+lightweight', affiliatePrice: '$60–100' },
   { id: 'ca-waterproof', name: 'Waterproof Jacket', category: 'destination', description: 'Vancouver (150 rainy days/year), Nova Scotia coast, Niagara Falls spray — a waterproof layer works year-round from coast to coast.', essential: true, amazonSearchFallback: 'waterproof+rain+jacket+packable', affiliatePrice: '$50–100' },
   { id: 'ca-walkshoes', name: 'Comfortable Walking / Hiking Shoes', category: 'destination', description: 'Whether you\'re walking Montreal\'s Plateau, hiking Banff\'s Lake Louise trail, or exploring Tofino beaches — supportive footwear makes every Canadian experience better.', essential: true, amazonSearchFallback: 'hiking+walking+shoes+waterproof+trail', affiliatePrice: '$80–130' },
+  {
+    id: 'vpn-subscription',
+    name: 'VPN Subscription',
+    category: 'electronics',
+    description: 'Secure your data on public WiFi — essential for hotel, airport, and cafe networks abroad.',
+    essential: false,
+    affiliateUrl: 'https://go.nordvpn.net/aff_c?offer_id=15&aff_id=XXXXX&url_id=902',
+    affiliatePrice: '~$3/month',
+    affiliatePartner: 'NordVPN',
+  },
+  {
+    id: 'phone-gimbal',
+    name: 'Phone Gimbal for Travel Vlogging',
+    category: 'electronics',
+    description: 'Stabilized video from your phone — no editing needed.',
+    essential: false,
+    affiliateUrl: 'https://www.insta360.com/sal/flow-2-pro?utm_source=AffiliateCenter&utm_medium=copylink&utm_term=INRSG7H5RTR',
+    affiliatePrice: '~$149',
+    affiliatePartner: 'Insta360',
+  },
 ];
 
 export const CANADA_GEAR_RECOMMENDATIONS: GearRecommendation[] = [
